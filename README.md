@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# FUEL+
 
-`CURSO`
+`CURSO` Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
 
-`SEMESTRE`
+`DISCIPLINA` EIXO 3 - PROJETO - Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
+
+
+`SEMESTRE` 2024/1
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
-
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alessandro Nunes Assunção
+* Carolina Novaes Leite
+* Paulo Henrique da Silva Carvalho
+* Rosimeire de Fátima Carvalho
+* Ruan Santos Gonzaga
 
 ## Orientador
 
-* Nome completo do professor 1
+* Diego Roberto Gonçalves de Pontes
 
 ## Instruções de utilização
 
