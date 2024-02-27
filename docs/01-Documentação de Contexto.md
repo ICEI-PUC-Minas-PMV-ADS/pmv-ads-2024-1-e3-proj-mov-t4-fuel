@@ -1,46 +1,28 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A ideia surge da necessidade de preencher uma lacuna no mercado atual, desenvolvendo um aplicativo mobile que será diariamete atualizado para mostrar o preço da gasolina, juntamente com outros serviços oferecidos em diversos postos de combustível. Atendendo a um público enorme, como locadoras de automóveis, filhos que utilizarão o app para ajudar os pais e motoristas no geral. Que poderão buscar um melhor preço do combustível e no mesmo local, realizar outros possíveis serviços.
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+## Problema: 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+**Pergunta de Pesquisa:** Existe uma maneira eficaz de fornecer aos consumidores informações atualizadas sobre os preços da gasolina em diversos postos de combustível, juntamente com detalhes sobre outros serviços oferecidos, através de um aplicativo mobile? 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Quais são os principais obstáculos encontrados pelos consumidores ao buscarem informações precisas e atualizadas sobre os preços da gasolina em diferentes postos de combustível, assim como detalhes sobre os serviços complementares oferecidos? Em que medida a falta de acesso a essas informações influência nas decisões de compra dos consumidores e na eficiência de captar mais clientes por partes dos postos? Como um aplicativo mobile pode superar esses desafios, proporcionando aos consumidores uma experiência mais transparente, conveniente e informada?
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+## Objetivos: 
 
-## Objetivos
+O objetivo geral é desenvolver um aplicativo mobile que permita aos usuários visualizarem os preços da gasolina em vários postos de combustível, e assim ter mais possibilidades de escolha, como por exemplo o mais barato, o mais perto ou até mesmo pela avaliação do posto. 
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Além de fornecer informações sobre outros serviços oferecidos por esses estabelecimentos, como lava-jato, troca de óleo, peças, acessórios, calibragem, conveniência etc. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, podemos ressaltar:  
 
-## Justificativa
+- Identificar os principais requisitos e funcionalidades necessárias para o aplicativo.
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+- Desenvolver uma interface intuitiva, eficaz e fácil de usar.  
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+- Integrar fontes confiáveis de informações sobre os preços da gasolina em tempo real e manter os preços atualizados. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+- Implementar recursos para visualização e comparação de preços entre diferentes postos de combustível. 
 
-## Público-Alvo
+- Exibir detalhes sobre outros serviços oferecidos pelos postos, como calibragem, troca de óleo, lava jato, manutenção, lavanderia, entre outros. 
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
