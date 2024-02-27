@@ -8,7 +8,7 @@
 
 `SEMESTRE` 2024/1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto FUEL+, foi concebido da ideia de criar um aplicativo mobile, para ajudar usuários que precisam de combustíveis para abastecer seus véiculos. Com a alta do preços, e os diversos preços praticado em várias regiões diferente, o aplicativo surge para que, em apenas um lugar pode o usuário encontrar os preços dos combustíveis em diversos postos próximo ao usuários, bem como eventuais outros serviços que o posto fornece, assi direcionando o usúario, caso assim, queira para que reabasteça seu veículo naquele posto.
 
 ## Integrantes
 * Alessandro Nunes Assunção
