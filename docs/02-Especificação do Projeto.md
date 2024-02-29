@@ -8,28 +8,30 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+José Geraldo tem 48 anos,é caminhoneiro, ensino médio completo. O seu objetivo ao usar à aplicação, é economizar. Tem como motivação a praticidade. Possui um caminhão que realiza frete para todo o Brasil.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Julia Pontes tem 21 anos, é universitária e está se graduando em Psicologia. Para Mariana, o objetivo para usuar a aplicação, é ter praticidade para encontrar combustível e prestadores de serviços para manutenção do seu carro. Sua motivação é ter tranquilidade, praticidade e preço baixo.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Fernanda Brant, com 35 anos, representante comercial, tem o objetivo de usar a aplicação no intuito de praticidade e segurança. Sua motivação é a rotina diária de trabalho, pois precisa otimizar o tempo para o abastecimento do carro e as manutenções preventivas, visando um preço justo.
+
+Roberto Barbosa tem 40 anos, e é trabalhador autônomo. Ele trabalha como motorista de aplicativo. E tem com objetivo de usar a aplicação para abastecer seu veículo e realizar as manutenções em lugares com um bom custo benefício. Sua finalidade é ter tranquilidade e uma redução dos custos, tendo em vista que ele sempre precisa dos serviços para manter o seu veículo .
+
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
+Com o ensejo de entender melhor as personas identificadas no projeto, foram identificadas as seguintes histórias de usuários. 
+
+
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|JORGE  | Poder ir para eventos em seu próprio carro; Ter segurança que seu carro está seguro; Pagar preço justo pelo estacionamento.          | Para não depender de transporte público de aplicativos; Assim evita eventuais furtos; Não ser explorado financeiramente.               |
+|BIANCA       | Ir a shows ou eventos esportivos com seu carro ou de amigos; Ter tranquilidade que o carro estará no local e sem avarias;                   | Evitar ter que pegar transporte público lotado, ou esperar muito tempo para conseguir uma corrida por carro de aplicativo; Porque em volta desses locais há muito vandalismo.  |
+|MARIA  | Fazer renda extra para complementar a aposentadoria; Disponibilizar seu espaço no seu terreiro, onde cabe 5 carros.          | Porque a aposentadoria recebe pouco; E assim, poder receber pelo cuidado e zelo do patrimônio de terceiros.                |
+|PEDRO      |Poder ir aos estádios/shows sem se preocupar em como ir embora ao final; Quando estiver a trabalho em eventos, poder estacionar o carro, durante todo dia, assim, ao final do trabalho, e caminhar poucos metros e saber que seu carro se encontra seguro.                  | Porque é mais fácil ir para sua casa de carro do que com transporte público; Porque as vezes é impossível encontrar local seguro para estacionar seu carro.  |
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
