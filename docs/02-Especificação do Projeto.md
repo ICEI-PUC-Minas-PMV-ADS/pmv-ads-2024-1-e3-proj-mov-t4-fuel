@@ -8,13 +8,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-José Geraldo tem 48 anos,é caminhoneiro, ensino médio completo. O seu objetivo ao usar à aplicação, é economizar. Tem como motivação a praticidade. Possui um caminhão que realiza frete para todo o Brasil.
+**José Geraldo** tem 48 anos,é caminhoneiro, ensino médio completo. O seu objetivo ao usar à aplicação, é economizar. Tem como motivação a praticidade. Possui um caminhão que realiza frete para todo o Brasil.
 
-Julia Pontes tem 21 anos, é universitária e está se graduando em Psicologia. Para Mariana, o objetivo para usuar a aplicação, é ter praticidade para encontrar combustível e prestadores de serviços para manutenção do seu carro. Sua motivação é ter tranquilidade, praticidade e preço baixo.
+**Camila Pontes** tem 21 anos, é universitária e está se graduando em Psicologia. Para Mariana, o objetivo para usuar a aplicação, é ter praticidade para encontrar combustível e prestadores de serviços para manutenção do seu carro. Sua motivação é ter tranquilidade, praticidade e preço baixo.
 
-Fernanda Brant, com 35 anos, representante comercial, tem o objetivo de usar a aplicação no intuito de praticidade e segurança. Sua motivação é a rotina diária de trabalho, pois precisa otimizar o tempo para o abastecimento do carro e as manutenções preventivas, visando um preço justo.
+**Fernanda Brant**, com 35 anos, é representante comercial, tem o objetivo de usar a aplicação no intuito de praticidade e segurança. Sua motivação é a rotina diária de trabalho, pois precisa otimizar o tempo para o abastecimento do carro e as manutenções preventivas, visando um preço justo.
 
-Roberto Barbosa tem 40 anos, e é trabalhador autônomo. Ele trabalha como motorista de aplicativo. E tem com objetivo de usar a aplicação para abastecer seu veículo e realizar as manutenções em lugares com um bom custo benefício. Sua finalidade é ter tranquilidade e uma redução dos custos, tendo em vista que ele sempre precisa dos serviços para manter o seu veículo .
+**Roberto Barbosa** tem 40 anos,é trabalhador autônomo. Ele trabalha como motorista de aplicativo. E tem com objetivo de usar a aplicação para abastecer seu veículo e realizar as manutenções em lugares com um bom custo benefício. Sua finalidade é ter tranquilidade e uma redução dos custos, tendo em vista que ele sempre precisa dos serviços para manter o seu veículo .
 
 
 ## Histórias de Usuários
@@ -26,10 +26,10 @@ Com o ensejo de entender melhor as personas identificadas no projeto, foram iden
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|JORGE  | Poder ir para eventos em seu próprio carro; Ter segurança que seu carro está seguro; Pagar preço justo pelo estacionamento.          | Para não depender de transporte público de aplicativos; Assim evita eventuais furtos; Não ser explorado financeiramente.               |
-|BIANCA       | Ir a shows ou eventos esportivos com seu carro ou de amigos; Ter tranquilidade que o carro estará no local e sem avarias;                   | Evitar ter que pegar transporte público lotado, ou esperar muito tempo para conseguir uma corrida por carro de aplicativo; Porque em volta desses locais há muito vandalismo.  |
-|MARIA  | Fazer renda extra para complementar a aposentadoria; Disponibilizar seu espaço no seu terreiro, onde cabe 5 carros.          | Porque a aposentadoria recebe pouco; E assim, poder receber pelo cuidado e zelo do patrimônio de terceiros.                |
-|PEDRO      |Poder ir aos estádios/shows sem se preocupar em como ir embora ao final; Quando estiver a trabalho em eventos, poder estacionar o carro, durante todo dia, assim, ao final do trabalho, e caminhar poucos metros e saber que seu carro se encontra seguro.                  | Porque é mais fácil ir para sua casa de carro do que com transporte público; Porque as vezes é impossível encontrar local seguro para estacionar seu carro.  |
+|JOSÉ GERALDO  | Poder ir para eventos em seu próprio carro; Ter segurança que seu carro está seguro; Pagar preço justo pelo estacionamento.          | Para não depender de transporte público de aplicativos; Assim evita eventuais furtos; Não ser explorado financeiramente.               |
+|CAMILA PONTES       | Ir a shows ou eventos esportivos com seu carro ou de amigos; Ter tranquilidade que o carro estará no local e sem avarias;                   | Evitar ter que pegar transporte público lotado, ou esperar muito tempo para conseguir uma corrida por carro de aplicativo; Porque em volta desses locais há muito vandalismo.  |
+|FERNANDA BRANT  | Fazer renda extra para complementar a aposentadoria; Disponibilizar seu espaço no seu terreiro, onde cabe 5 carros.          | Porque a aposentadoria recebe pouco; E assim, poder receber pelo cuidado e zelo do patrimônio de terceiros.                |
+|ROBERTO BARBOSA     |Poder ir aos estádios/shows sem se preocupar em como ir embora ao final; Quando estiver a trabalho em eventos, poder estacionar o carro, durante todo dia, assim, ao final do trabalho, e caminhar poucos metros e saber que seu carro se encontra seguro.                  | Porque é mais fácil ir para sua casa de carro do que com transporte público; Porque as vezes é impossível encontrar local seguro para estacionar seu carro.  |
 
 
 
