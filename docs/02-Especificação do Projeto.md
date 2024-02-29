@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **José Geraldo** tem 48 anos,é caminhoneiro, ensino médio completo. O seu objetivo ao usar à aplicação, é economizar. Tem como motivação a praticidade. Possui um caminhão que realiza frete para todo o Brasil.
 
-**Camila Pontes** tem 21 anos, é universitária e está se graduando em Psicologia. Para Mariana, o objetivo para usuar a aplicação, é ter praticidade para encontrar combustível e prestadores de serviços para manutenção do seu carro. Sua motivação é ter tranquilidade, praticidade e preço baixo.
+**Camila Pontes** tem 21 anos, é universitária e está se graduando em Psicologia. Para Camila, o objetivo para usuar a aplicação, é ter praticidade para encontrar combustível e prestadores de serviços para manutenção do seu carro. Sua motivação é ter tranquilidade, praticidade e preço baixo.
 
 **Fernanda Brant** com 35 anos, é representante comercial, tem o objetivo de usar a aplicação no intuito de praticidade e segurança. Sua motivação é a rotina diária de trabalho, pois precisa otimizar o tempo para o abastecimento do carro e as manutenções preventivas, visando um preço justo.
 
