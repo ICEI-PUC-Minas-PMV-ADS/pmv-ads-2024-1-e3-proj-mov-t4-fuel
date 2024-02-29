@@ -27,9 +27,9 @@ Com o ensejo de entender melhor as personas identificadas no projeto, foram iden
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |JOSÉ | Poder viajar tranquilamente; Ter economia ; Ter segurança ; Pagar preço justo| Economizar; como as viagens são longas consequentemente os custos são mais altos o que pode gerar grandes prejuízos.
-|CAMILA      | Ir a shows ou eventos esportivos com seu carro ou de amigos; Ter tranquilidade que o carro estará no local e sem avarias;                   | Evitar ter que pegar transporte público lotado, ou esperar muito tempo para conseguir uma corrida por carro de aplicativo; Porque em volta desses locais há muito vandalismo.  |
-|FERNANDA  | Fazer renda extra para complementar a aposentadoria; Disponibilizar seu espaço no seu terreiro, onde cabe 5 carros.          | Porque a aposentadoria recebe pouco; E assim, poder receber pelo cuidado e zelo do patrimônio de terceiros.                |
-|ROBERTO    |Poder ir aos estádios/shows sem se preocupar em como ir embora ao final; Quando estiver a trabalho em eventos, poder estacionar o carro, durante todo dia, assim, ao final do trabalho, e caminhar poucos metros e saber que seu carro se encontra seguro.                  | Porque é mais fácil ir para sua casa de carro do que com transporte público; Porque as vezes é impossível encontrar local seguro para estacionar seu carro.  |
+|CAMILA      | Sua motivação é ter tranquilidade; Ter praticidade Ter preço baixo.;                   | O objetivo para usar a aplicação, é ter praticidade; para encontrar combustível; Encontrar prestadores de serviços para manutenção do seu carro. |
+|FERNANDA  | sua motivação é a rotina diária de trabalho; Otimizar o tempo para o abastecimento do carro e as manutenções preventivas, Ter preço justo.    |  Tem o objetivo de usar a aplicação no intuito de praticidade e segurança.          |
+|ROBERTO    |Objetivo de usar a aplicação para o abastecimento do seu veículo; manutenções programadas; ter um bom custo benefício.                  |Sua finalidade é ter tranquilidade  redução dos custos, tendo em vista que ele sempre necessita de serviços de manutenções básicas.
 
 
 
