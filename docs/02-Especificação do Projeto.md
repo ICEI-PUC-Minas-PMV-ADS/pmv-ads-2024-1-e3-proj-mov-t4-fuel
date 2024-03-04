@@ -129,14 +129,49 @@ Em relação aos casos de uso, eles devem representar as interações ou transa�
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
+A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema. Foram incluídos os relacionamentos entre requisitos funcionais e stakeholders. Os requisitos não funcionais não foram incluídos pois relacionam-se com todos os demais.
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
 
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+| INFORMAÇÃO | RF-01 | RF-02 | RF-03 | RF-04 | RF-05 | RF-06 | RF-07 | RF-08 | RF-09 | RF-10 | RF-11 | RF-12 | RF-13 | USUÁRIO | ADM | 
+|------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------| ----|
+| RF-01      |   X   |       |       |       |   X   |       |   X   |       |       |       |       |       |       |    X    |  X  |  
+| RF-02      |       |   X   |       |       |       |       |       |   X   |       |   X   |       |       |       |    X    |     | 
+| RF-03      |       |       |   X   |   X   |       |   X   |       |       |       |       |       |       |       |    X    |     |    
+| RF-04      |       |       |   X   |   X   |       |       |       |       |       |       |       |       |       |         |  X  |        
+| RF-05      |   X   |       |       |       |   X   |       |       |       |       |       |       |       |       |    X    |  X  |        
+| RF-06      |       |       |   X   |       |       |   X   |       |       |       |       |       |       |       |         |  X  |        
+| RF-07      |   X   |       |       |       |       |       |   X   |       |       |       |       |       |       |    X    |     |         
+| RF-08      |       |   X   |       |       |       |       |       |   X   |       |   X   |       |       |       |    X    |     |         
+| RF-09      |       |       |       |       |       |       |       |       |   X   |       |       |       |       |    X    |     |        
+| RF-10      |       |       |       |       |       |       |       |   X   |       |   X   |       |       |       |    X    |     |         
+| RF-11      |       |       |       |       |       |       |       |       |       |       |   X   |   X   |   X   |    X    |     |         
+| RF-12      |       |       |       |       |       |       |       |       |       |       |   X   |   X   |   X   |    X    |     |         
+| RF-13      |       |       |       |       |       |       |       |       |       |       |   X   |   X   |   X   |    X    |     |         
+| USUÁRIO    |   X   |   X   |   X   |       |   X   |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |    X    |     |   
+| ADM        |   X   |       |       |   X   |   X   |   X   |       |       |       |       |       |       |       |         |  X  |  
+
+Descrição dos relacionamentos:
+
+**RF-01**: Este requisito está relacionado com RF-07 (recuperação de senha), pois ambos envolvem a autenticação dos usuários e com o RF-05 para atualizações.
+
+**RF-02**: Relaciona-se com RF-08 (pesquisa de preço) e RF-10 (integração com GPS) para oferecer funcionalidades de busca e navegação.
+
+**RF-03**: Está relacionado com RF-04 pois seria o resultado das informações cadastradas naquele Requisito.
+
+**RF-04**: Está relacionado com o RF-03 e com RF-05 (atualização de informações) para manter os dados dos estabelecimentos atualizados.
+
+**RF-05**: Relaciona-se com RF-01 e RF-04 para atualizar as informações, com RF-08 para permitir a pesquisa de preços.
+
+**RF-06**: Modificações aqui impactarão a lista do RF-03.
+
+**RF-07**: Relaciona-se com RF-01 para autenticação dos usuários.
+
+**RF-08**: Está relacionado com RF-02 para pesquisa de preços e com RF-10 para integração com GPS.
+
+**RF-10**: Relaciona-se com RF-02 para fornecer informações de localização.
+
+**RF-11**: Os requisitos RF-11, RF-12 e RF-13 são ações do usuário
+
 
 
 # Gerenciamento de Projeto
