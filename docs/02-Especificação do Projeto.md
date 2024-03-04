@@ -82,19 +82,19 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues. 
 |ID    | Descrição dos Requisitos | Prioridade |
 |------|-----------------------------------------|----|
-|RF-02 | A aplicação permitirá o login por meio de Email e senha cadastrados previamente.   | ALTA |
-|RF-03 | A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.    | ALTA |
-|RF-04 | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.    | ALTA | 
-|RF-05 | A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais | ALTA |
-|RF-06 | A aplicação deve permitir atualizar as informações previamente cadastradas.  | ALTA |
-|RF-07 | A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como falsas ou incorretas.    | ALTA |
-|RF-09 | A aplicação deve pedir ao usuário que recupere sua senha a partir do Email previamente cadastrado.  | ALTA |
-|RF-10 | A aplicação deve permitir que os usuários realizem pesquisas de preço, tipo de combustível e bandeira do posto.    | MÉDIA |
-|RF-11 | A aplicação deverá disponibilizar um serviço de atendimento ao usuário.    | MÉDIA |
-|RF-12 | A aplicação deverá ser integrada a um serviço de GPS para que trace a rota ideal do usuário até o posto desejado.   | MÉDIA |
-|RF-13| A aplicação deverá permitir que o usuário envie uma foto dos preços do posto para auxiliar na atualização das informações do app. | MÉDIA |
-|RF-14 | A aplicação deverá permitir ao usuário favoritar posto. | BAIXA | 
-|RF-15| A aplicação deverá permitir a avaliação do usuário. | BAIXA |
+|RF-01 | A aplicação permitirá o login por meio de Email e senha cadastrados previamente.   | ALTA |
+|RF-02 | A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.    | ALTA |
+|RF-03 | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.    | ALTA | 
+|RF-04 | A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais | ALTA |
+|RF-05 | A aplicação deve permitir atualizar as informações previamente cadastradas.  | ALTA |
+|RF-06 | A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como falsas ou incorretas.    | ALTA |
+|RF-07 | A aplicação deve pedir ao usuário que recupere sua senha a partir do Email previamente cadastrado.  | ALTA |
+|RF-08 | A aplicação deve permitir que os usuários realizem pesquisas de preço, tipo de combustível e bandeira do posto.    | MÉDIA |
+|RF-09 | A aplicação deverá disponibilizar um serviço de atendimento ao usuário.    | MÉDIA |
+|RF-10 | A aplicação deverá ser integrada a um serviço de GPS para que trace a rota ideal do usuário até o posto desejado.   | MÉDIA |
+|RF-11| A aplicação deverá permitir que o usuário envie uma foto dos preços do posto para auxiliar na atualização das informações do app. | MÉDIA |
+|RF-12 | A aplicação deverá permitir ao usuário favoritar posto. | BAIXA | 
+|RF-13| A aplicação deverá permitir a avaliação do usuário. | BAIXA |
 
 
 ### Requisitos não Funcionais
