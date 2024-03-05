@@ -185,7 +185,7 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 O gráfico de Gantt ou diagrama de Gantt está sendo utilizado para controlar e gerenciar o cronograma de atividades do projeto, dividindo em atividades e estimando o tempo necessário para executá-las.
 
-![Gráfico de Gantt](img/Diagrama%20de%20Gantt.png)
+![Gráfico de Gantt](img/DiagramaGantt.png).
 
 ## Gerenciamento de Equipe
 
@@ -198,4 +198,4 @@ Através dele a gestão de tarefas, de pessoas e de competências estão sendo d
 
 Orçamento previsto para a realização do projeto.
 
-![Orçamento Geral](img/GestaoOrcamento.png)
+![Orçamento Geral](img/GestaoOrcamento.png).
