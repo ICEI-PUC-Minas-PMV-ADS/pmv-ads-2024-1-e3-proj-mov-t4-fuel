@@ -8,9 +8,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-**José Geraldo** 48 anos, é caminhoneiro com ensino médio completo. Ele utiliza a aplicação com o objetivo de economizar, valorizando a praticidade que ela oferece para otimizar suas viagens de frete por todo o Brasil.
+**José Geraldo** 48 anos, é caminhoneiro com ensino médio completo. Ele utiliza a aplicação com o objetivo de economizar, valorizando a praticidade que a aplicação oferece para otimizar suas viagens de frete por todo o Brasil.
 
-**Camila Pontes** 21 anos, está se graduando em Psicologia e busca praticidade ao utilizar a aplicação para encontrar combustível e serviços de manutenção para seu carro. Sua motivação reside na tranquilidade, praticidade e preços acessíveis que a aplicação pode proporcionar.
+**Camila Pontes** 21 anos, está se graduando em Psicologia e busca praticidade ao utilizar a aplicação para encontrar combustível e serviços de manutenção para seu carro. Sua motivação na consiste em tranquilidade, praticidade e preços acessíveis que a aplicação pode proporcionar.
 
 **Fernanda Brant** 35 anos, é representante comercial e busca praticidade e segurança ao utilizar a aplicação. Sua rotina diária de trabalho requer otimização do tempo para abastecer seu carro e realizar manutenções preventivas, visando preços justos e qualidade nos serviços.
 
@@ -18,7 +18,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Nilton Novaes** 65 anos, é aposentado e utiliza a aplicação para suas rotinas diárias, incluindo suas viagens para a roça com a família nos finais de semana. Sua falta de familiaridade com a tecnologia demanda apoio dos filhos na utilização do aplicativo. Seu objetivo é facilitar suas atividades cotidianas e desfrutar de momentos de descanso com sua família.
  
-**Locadora de veículos** Essas empresas necessitam de manutenções programadas e abastecimento regular para assegurar a eficiência operacional de sua frota de veículos, a economia e serviços de qualidade são primordiais, 
+**Locadora de veículos** Essas empresas necessitam de manutenções programadas e abastecimento regular para assegurar a eficiência operacional de sua frota de veículos, a economia, agilidade e serviços de qualidade são primordiais.
 
 ## Histórias de Usuários
 
@@ -27,12 +27,12 @@ Com o ensejo de entender melhor as personas identificadas no projeto, foram iden
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|JOSÉ | Poder viajar tranquilamente; Ter economia ; Ter segurança ; Pagar preço justo| Economizar; como as viagens são longas consequentemente os custos são mais altos o que pode gerar grandes prejuízos.
-|CAMILA      | Sua motivação é ter tranquilidade; Ter praticidade Ter preço baixo.;                   | O objetivo para usar a aplicação, é ter praticidade; para encontrar combustível; Encontrar prestadores de serviços para manutenção do seu carro. |
+|JOSÉ | Poder viajar tranquilamente; Ter economia ; Ter segurança ; Pagar preço justo| Economizar; viagens são longas; custos são mais altos o que pode gerar grandes prejuízos.
+|CAMILA      | Ter tranquilidade; Ter praticidade Ter preço baixo.;                   | O objetivo para usar a aplicação, é ter praticidade; para encontrar combustível; Encontrar prestadores de serviços para manutenção do seu carro. |
 |FERNANDA  | sua motivação é a rotina diária de trabalho; Otimizar o tempo para o abastecimento do carro e as manutenções preventivas, Ter preço justo.    |  Tem o objetivo de usar a aplicação no intuito de praticidade e segurança.          |
 |ROBERTO    |Objetivo de usar a aplicação para o abastecimento do seu veículo; manutenções programadas; ter um bom custo benefício.                  |Sua finalidade é ter tranquilidade  redução dos custos, tendo em vista que ele sempre necessita de serviços de manutenções básicas.
-|NILTON    |Objetivo de usar a aplicação para o abastecimento do seu veículo; manutenções programadas; ter um bom custo benefício.                  |Sua finalidade é ter tranquilidade  redução dos custos, tendo em vista que ele sempre necessita de serviços de manutenções básicas.
-|LOCADORA    |Objetivo de usar a aplicação para o abastecimento do seu veículo; manutenções programadas; ter um bom custo benefício.                  |Sua finalidade é ter tranquilidade  redução dos custos, tendo em vista que ele sempre necessita de serviços de manutenções básicas.
+|NILTON    |Objetivo de usar a aplicação para o abastecimento do seu veículo; manutenções programadas; ter um bom custo benefício.                  |Sua finalidade é ter tranquilidade  redução dos custos, tendo em vista que ele sempre necessita de serviços de manutenções básicas. Dificuldade tecnologica, pode precisar de auxílio para utilização da aplicação.
+|LOCADORA    |Objetivo de usar a aplicação para o abastecimento dos veículos da frota; manutenções programadas; ter economia; ter serviços rápidos e de qualidade               |Sua finalidade é ter tranquilidade  redução dos custos, agilidade e qualidade.
 
 ## Modelagem do Processo de Negócio 
 
