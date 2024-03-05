@@ -18,7 +18,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Nilton Novaes** 65 anos, é aposentado e utiliza a aplicação para suas rotinas diárias, incluindo suas viagens para a roça com a família nos finais de semana. Sua falta de familiaridade com a tecnologia demanda apoio dos filhos na utilização do aplicativo. Seu objetivo é facilitar suas atividades cotidianas e desfrutar de momentos de descanso com sua família.
  
-**Locadora/Revendedora de veículos** Essas empresas necessitam de manutenções programadas e abastecimento regular para assegurar a eficiência operacional de sua frota de veículos, a economia e serviços de qualidade são primordiais para garantir a segurança para os clientes.
+**Locadora de veículos** Essas empresas necessitam de manutenções programadas e abastecimento regular para assegurar a eficiência operacional de sua frota de veículos, a economia e serviços de qualidade são primordiais, 
 
 ## Histórias de Usuários
 
@@ -34,7 +34,7 @@ Com o ensejo de entender melhor as personas identificadas no projeto, foram iden
 |FERNANDA  | sua motivação é a rotina diária de trabalho; Otimizar o tempo para o abastecimento do carro e as manutenções preventivas, Ter preço justo.    |  Tem o objetivo de usar a aplicação no intuito de praticidade e segurança.          |
 |ROBERTO    |Objetivo de usar a aplicação para o abastecimento do seu veículo; manutenções programadas; ter um bom custo benefício.                  |Sua finalidade é ter tranquilidade  redução dos custos, tendo em vista que ele sempre necessita de serviços de manutenções básicas.
 |NILTON    |Objetivo de usar a aplicação para o abastecimento do seu veículo; manutenções programadas; ter um bom custo benefício.                  |Sua finalidade é ter tranquilidade  redução dos custos, tendo em vista que ele sempre necessita de serviços de manutenções básicas.
-
+|LOCADORA    |Objetivo de usar a aplicação para o abastecimento do seu veículo; manutenções programadas; ter um bom custo benefício.                  |Sua finalidade é ter tranquilidade  redução dos custos, tendo em vista que ele sempre necessita de serviços de manutenções básicas.
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
