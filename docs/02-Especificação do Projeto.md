@@ -16,6 +16,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Roberto Barbosa** tem 40 anos,é trabalhador autônomo. Ele trabalha como motorista de aplicativo. Tem com objetivo de usar a aplicação para abastecer seu veículo e realizar as manutenções em lugares com um bom custo benefício. Sua finalidade é ter tranquilidade e uma redução dos custos, tendo em vista que ele sempre precisa dos serviços para manter o seu veículo .
 
+**Nilton Novaes** tem 65 anos,é aposentado. Tem com objetivo de usar a aplicação para as rotinas do seu dia a dia e ir para a roça descansar com a famíla nos finais de semana, como não tem muita familiaridade com tecnologia precisa do apoio dos seus filhosna ultilização do App.
 
 ## Histórias de Usuários
 
