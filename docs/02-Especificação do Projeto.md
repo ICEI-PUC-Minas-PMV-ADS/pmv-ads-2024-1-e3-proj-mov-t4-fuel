@@ -8,15 +8,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-**José Geraldo** tem 48 anos,é caminhoneiro, ensino médio completo. O seu objetivo ao usar à aplicação, é economizar. Tem como motivação a praticidade. Possui um caminhão que realiza frete para todo o Brasil.
+**José Geraldo** 48 anos, é caminhoneiro com ensino médio completo. Ele utiliza a aplicação com o objetivo de economizar, valorizando a praticidade que ela oferece para otimizar suas viagens de frete por todo o Brasil.
 
-**Camila Pontes** tem 21 anos, é universitária e está se graduando em Psicologia. Para Camila, o objetivo para usar a aplicação, é ter praticidade para encontrar combustível e prestadores de serviços para manutenção do seu carro. Sua motivação é ter tranquilidade, praticidade e preço baixo.
+**Camila Pontes** 21 anos, está se graduando em Psicologia e busca praticidade ao utilizar a aplicação para encontrar combustível e serviços de manutenção para seu carro. Sua motivação reside na tranquilidade, praticidade e preços acessíveis que a aplicação pode proporcionar.
 
-**Fernanda Brant** com 35 anos, é representante comercial, tem o objetivo de usar a aplicação no intuito de praticidade e segurança. Sua motivação é a rotina diária de trabalho, pois precisa otimizar o tempo para o abastecimento do carro e as manutenções preventivas, visando um preço justo.
+**Fernanda Brant** 35 anos, é representante comercial e busca praticidade e segurança ao utilizar a aplicação. Sua rotina diária de trabalho requer otimização do tempo para abastecer seu carro e realizar manutenções preventivas, visando preços justos e qualidade nos serviços.
 
-**Roberto Barbosa** tem 40 anos,é trabalhador autônomo. Ele trabalha como motorista de aplicativo. Tem com objetivo de usar a aplicação para abastecer seu veículo e realizar as manutenções em lugares com um bom custo benefício. Sua finalidade é ter tranquilidade e uma redução dos custos, tendo em vista que ele sempre precisa dos serviços para manter o seu veículo .
+**Roberto Barbosa** 40 anos, trabalha como motorista de aplicativo e utiliza a aplicação para abastecer seu veículo e realizar manutenções com custo-benefício. Ele almeja tranquilidade e redução de custos, dado que depende constantemente desses serviços para manter seu veículo em condições ideais.
 
-**Nilton Novaes** tem 65 anos,é aposentado. Tem com objetivo de usar a aplicação para as rotinas do seu dia a dia e ir para a roça descansar com a famíla nos finais de semana, como não tem muita familiaridade com tecnologia precisa do apoio dos seus filhos na ultilização do App.
+**Nilton Novaes** 65 anos, é aposentado e utiliza a aplicação para suas rotinas diárias, incluindo suas viagens para a roça com a família nos finais de semana. Sua falta de familiaridade com a tecnologia demanda apoio dos filhos na utilização do aplicativo. Seu objetivo é facilitar suas atividades cotidianas e desfrutar de momentos de descanso com sua família.
 
 ## Histórias de Usuários
 
