@@ -17,6 +17,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 **Roberto Barbosa** 40 anos, trabalha como motorista de aplicativo e utiliza a aplicação para abastecer seu veículo e realizar manutenções com custo-benefício. Ele almeja tranquilidade e redução de custos, dado que depende constantemente desses serviços para manter seu veículo em condições ideais.
 
 **Nilton Novaes** 65 anos, é aposentado e utiliza a aplicação para suas rotinas diárias, incluindo suas viagens para a roça com a família nos finais de semana. Sua falta de familiaridade com a tecnologia demanda apoio dos filhos na utilização do aplicativo. Seu objetivo é facilitar suas atividades cotidianas e desfrutar de momentos de descanso com sua família.
+ 
+**Locadora/Revendedora de veículos** Essas empresas necessitam de manutenções programadas e abastecimento regular para assegurar a eficiência operacional de sua frota de veículos, a economia e serviços de qualidade são primordiais para garantir a segurança para os clientes.
 
 ## Histórias de Usuários
 
