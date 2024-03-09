@@ -126,21 +126,21 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 
 | INFORMAÇÃO | RF-01 | RF-02 | RF-03 | RF-04 | RF-05 | RF-06 | RF-07 | RF-08 | RF-09 | RF-10 | RF-11 | RF-12 | RF-13 | USUÁRIO | ADM | 
 |------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------| ----|
-| RF-01      |   X   |       |       |       |   X   |       |   X   |       |       |       |       |       |       |    X    |  X  |  
-| RF-02      |       |   X   |       |       |       |       |       |   X   |       |   X   |       |       |       |    X    |     | 
-| RF-03      |       |       |   X   |   X   |       |   X   |       |       |       |       |       |       |       |    X    |     |    
-| RF-04      |       |       |   X   |   X   |       |       |       |       |       |       |       |       |       |         |  X  |        
-| RF-05      |   X   |       |       |       |   X   |       |       |       |       |       |       |       |       |    X    |  X  |        
-| RF-06      |       |       |   X   |       |       |   X   |       |       |       |       |       |       |       |         |  X  |        
-| RF-07      |   X   |       |       |       |       |       |   X   |       |       |       |       |       |       |    X    |     |         
-| RF-08      |       |   X   |       |       |       |       |       |   X   |       |   X   |       |       |       |    X    |     |         
-| RF-09      |       |       |       |       |       |       |       |       |   X   |       |       |       |       |    X    |     |        
-| RF-10      |       |       |       |       |       |       |       |   X   |       |   X   |       |       |       |    X    |     |         
-| RF-11      |       |       |       |       |       |       |       |       |       |       |   X   |   X   |   X   |    X    |     |         
-| RF-12      |       |       |       |       |       |       |       |       |       |       |   X   |   X   |   X   |    X    |     |         
-| RF-13      |       |       |       |       |       |       |       |       |       |       |   X   |   X   |   X   |    X    |     |         
-| USUÁRIO    |   X   |   X   |   X   |       |   X   |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |    X    |     |   
-| ADM        |   X   |       |       |   X   |   X   |   X   |       |       |       |       |       |       |       |         |  X  |  
+| RF-01      |       |       |       |       |   X   |       |   X   |       |       |       |       |       |       |    X    |  X  |  
+| RF-02      |       |       |       |       |       |       |       |   X   |       |   X   |       |       |       |    X    |     | 
+| RF-03      |       |       |       |   X   |       |   X   |       |       |       |       |       |       |       |    X    |     |    
+| RF-04      |       |       |   X   |       |       |       |       |       |       |       |       |       |       |         |  X  |        
+| RF-05      |   X   |       |       |       |       |       |       |       |       |       |       |       |       |    X    |  X  |        
+| RF-06      |       |       |   X   |       |       |       |       |       |       |       |       |       |       |         |  X  |        
+| RF-07      |   X   |       |       |       |       |       |       |       |       |       |       |       |       |    X    |     |         
+| RF-08      |       |   X   |       |       |       |       |       |       |       |   X   |       |       |       |    X    |     |         
+| RF-09      |       |       |       |       |       |       |       |       |       |       |       |       |       |    X    |     |        
+| RF-10      |       |       |       |       |       |       |       |   X   |       |       |       |       |       |    X    |     |         
+| RF-11      |       |       |       |       |       |       |       |       |       |       |       |   X   |   X   |    X    |     |         
+| RF-12      |       |       |       |       |       |       |       |       |       |       |   X   |       |   X   |    X    |     |         
+| RF-13      |       |       |       |       |       |       |       |       |       |       |   X   |   X   |       |    X    |     |         
+| USUÁRIO    |   X   |   X   |   X   |       |   X   |       |   X   |   X   |   X   |   X   |   X   |   X   |   X   |         |     |   
+| ADM        |   X   |       |       |   X   |   X   |   X   |       |       |       |       |       |       |       |         |     |  
 
 Descrição dos relacionamentos:
 
@@ -174,7 +174,7 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 O gráfico de Gantt ou diagrama de Gantt está sendo utilizado para controlar e gerenciar o cronograma de atividades do projeto, dividindo em atividades e estimando o tempo necessário para executá-las.
 
-![Gráfico de Gantt](img/DiagramaGantt.png).
+![Gráfico de Gantt](img/GanttFuel+.png)
 
 ## Gerenciamento de Equipe
 
