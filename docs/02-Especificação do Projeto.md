@@ -2,9 +2,8 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Nesta seção do documento, vamos abordar a especificação detalhada do projeto, para garantir uma compreensão abrangente e precisa dos requisitos e objetivos da aplicação. Utilizamos várias tecnicas e ferramentas para projetar as especificações do nosso projeto, dentre elas, podemos citar algumas como o ProjectLibre, que foi utilizado para o planejamento e gerenciamento do projeto, incluindo a definição de cronogramas e acompanhamento do progresso. Draw.io foi a ferramenta para criação de diagramas, como o diagrama de casos de uso do aplicativo. Já o GitHub Projects, foi utilizado para gerenciar as tarefas, issues, sprints e colaboração entre membros da equipe. 
+<br>Acompanhe abaixo detalhadamente as especificações do projeto, que incluem, as personas e histórias de usuários, requisitos, restrições, diagrama de casos de uso, matriz de rastreabilidade e gerenciamento.
 
 ## Personas
 
@@ -74,17 +73,18 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues. 
 |ID    | Descrição dos Requisitos | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01 | A aplicação permitirá o login por meio de Email e senha cadastrados previamente.   | ALTA |
-|RF-02 | A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.    | ALTA |
+|RF-01 | A aplicação permitirá o login por meio de Email e senha cadastrados previamente.   | MÉDIA |
+|RF-02 | A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.    | MÉDIA |
 |RF-03 | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.    | ALTA | 
 |RF-04 | A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais | ALTA |
 |RF-05 | A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.  | ALTA |
-|RF-07 | A aplicação deve pedir ao usuário que recupere sua senha a partir do Email previamente cadastrado.  | ALTA |
+|RF-06 | A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. | MÉDIA|
+|RF-07 | A aplicação deve pedir ao usuário que recupere sua senha a partir do Email previamente cadastrado.  | MÉDIA |
 |RF-08 | A aplicação deve permitir que os usuários realizem pesquisas de preço, tipo de combustível e bandeira do posto.    | MÉDIA |
 |RF-09 | A aplicação deverá disponibilizar um serviço de atendimento ao usuário.    | MÉDIA |
 |RF-10 | A aplicação deverá ser integrada a um serviço de GPS para que trace a rota ideal do usuário até o posto desejado.   | MÉDIA |
-|RF-11| A aplicação deverá permitir que o usuário envie uma foto dos preços do posto para auxiliar na atualização das informações do app. | MÉDIA |
-|RF-12 | A aplicação deverá permitir ao usuário favoritar posto. | BAIXA | 
+|RF-11| A aplicação deverá permitir que o usuário envie uma foto dos preços do posto para auxiliar na atualização das informações do app. | BAIXA |
+|RF-12 | A aplicação deverá permitir ao usuário favoritar posto. | MÉDIA | 
 |RF-13| A aplicação deverá permitir a avaliação do usuário. | BAIXA |
 
 
@@ -99,6 +99,8 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF-05 | A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade.    |  MÉDIA | 
 |RNF-06 | Os dados pessoais dos usuários, que forem coletados na aplicação deverão ser criptografados. | ALTA |
 
+### Técnica da Escala de Três Níveis 
+![Escala:](<img/EscalaTresNiveis.png>)
 
 ## Restrições
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir. 
@@ -167,8 +169,6 @@ Descrição dos relacionamentos:
 
 
 # Gerenciamento de Projeto
-
-De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
 
 ## Gerenciamento de Tempo
 
