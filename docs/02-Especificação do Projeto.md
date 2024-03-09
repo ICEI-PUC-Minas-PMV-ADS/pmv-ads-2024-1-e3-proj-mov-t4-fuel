@@ -93,11 +93,12 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 |ID     | Descrição do Requisito | Prioridade |
 |-------|-------------------------|-----------|
-|RNF-01 | A aplicação deve ser publicada em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);   | ALTA | 
+|RNF-01 | A aplicação deve ser publicada em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).   | ALTA | 
 |RNF-02 | A aplicação deverá ser responsiva permitindo a visualização em um celular de forma adequada.  | ALTA | 
 |RNF-03 | A interface da aplicação deve ser intuitiva para que atenda a todos os públicos.   |  ALTA | 
-|RNF-04 | A aplicação deve ser compatível com os principais sistemas operacionais do mercado |  ALTA | 
-|RNF-05 | A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade    |  MÉDIA | 
+|RNF-04 | A aplicação deve ser compatível com os principais sistemas operacionais do mercado. |  ALTA | 
+|RNF-05 | A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade.    |  MÉDIA | 
+|RNF-06 | Os dados pessoais dos usuários, que forem coletados na aplicação deverão ser criptografados. | ALTA |
 
 
 ## Restrições
