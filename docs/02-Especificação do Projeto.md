@@ -3,6 +3,7 @@
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Nesta seção do documento, vamos abordar a especificação detalhada do projeto, para garantir uma compreensão abrangente e precisa dos requisitos e objetivos da aplicação. Utilizamos várias tecnicas e ferramentas para projetar as especificações do nosso projeto, dentre elas, podemos citar algumas como o ProjectLibre, que foi utilizado para o planejamento e gerenciamento do projeto, incluindo a definição de cronogramas e acompanhamento do progresso. Draw.io foi a ferramenta para criação de diagramas, como o diagrama de casos de uso do aplicativo. Já o GitHub Projects, foi utilizado para gerenciar as tarefas, issues, sprints e colaboração entre membros da equipe. 
+
 <br>Acompanhe abaixo detalhadamente as especificações do projeto, que incluem, as personas e histórias de usuários, requisitos, restrições, diagrama de casos de uso, matriz de rastreabilidade e gerenciamento.
 
 ## Personas
