@@ -2,7 +2,8 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Nesta seção do documento, vamos abordar a especificação detalhada do projeto, para garantir uma compreensão abrangente e precisa dos requisitos e objetivos da aplicação. Utilizamos várias tecnicas e ferramentas para projetar as especificações do nosso projeto, dentre elas, podemos citar algumas como o ProjectLibre, que foi utilizado para o planejamento e gerenciamento do projeto, incluindo a definição de cronogramas e acompanhamento do progresso. Draw.io foi a ferramenta para criação de diagramas, como o diagrama de casos de uso do aplicativo. Já o GitHub Projects, foi utilizado para gerenciar as tarefas, issues, sprints e colaboração entre membros da equipe.
+Nesta seção do documento, vamos abordar a especificação detalhada do projeto, para garantir uma compreensão abrangente e precisa dos requisitos e objetivos da aplicação. Utilizamos várias tecnicas e ferramentas para projetar as especificações do nosso projeto, dentre elas, podemos citar algumas como o ProjectLibre, que foi utilizado para o planejamento e gerenciamento do projeto, incluindo a definição de cronogramas e acompanhamento do progresso. Draw.io foi a ferramenta para criação de diagramas, como o diagrama de casos de uso do aplicativo. Já o GitHub Projects, foi utilizado para gerenciar as tarefas, issues, sprints e colaboração entre membros da equipe. 
+Acompanhe abaixo detalhadamente as especificações do projeto, que incluem, as personas e histórias de usuários, requisitos, restrições, diagrama de casos de uso, matriz de rastreabilidade e gerenciamento.
 
 ## Personas
 
@@ -166,8 +167,6 @@ Descrição dos relacionamentos:
 
 
 # Gerenciamento de Projeto
-
-De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
 
 ## Gerenciamento de Tempo
 
