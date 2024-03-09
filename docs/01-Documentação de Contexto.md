@@ -42,4 +42,4 @@ As contribuições esperadas do desenvolvimento desta aplicação são diversas,
 
 ## Público-Alvo: 
 
-O público é extremamente amplo, já que, o aplicativo pode ser consultado por pessoas que possuem veículo próprio, ou apenas pessoas informadas, que conhecem a utilidade do aplicativo e utilizam para auxiliar terceiros. 
+O público é extremamente amplo, já que, o aplicativo pode ser consultado por pessoas que possuem veículo próprio, ou apenas pessoas informadas, que conhecem a utilidade do aplicativo e utilizam para auxiliar terceiros. Poderá também ser utilizado por locadoras de carros, motoristas de aplicativo e empresas que possuem veículos corporativos, para obterem um melhor custo benefício no abastecimento de seus veículos e praticidade para localizarem outros serviços fornecidos no mesmo posto.
