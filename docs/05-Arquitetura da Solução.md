@@ -12,7 +12,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 
 
-![Diagrama ER Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/f9d16cf9-fe77-4fcd-a3ef-9cb9465e847f)
+![Tela Diagrama de Classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/01fea9e7-c134-4979-aa19-35e733c4ad32)
 
 
 
@@ -22,7 +22,10 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
 
-![Diagrama ER Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/252731c6-ac11-412d-a282-a6d3d074a4e4)
+
+![Diagrama ER Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/f9d16cf9-fe77-4fcd-a3ef-9cb9465e847f)
+
+
 
 ## Esquema Relacional
 
