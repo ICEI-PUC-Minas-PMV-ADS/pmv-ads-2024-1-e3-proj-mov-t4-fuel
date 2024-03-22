@@ -12,7 +12,10 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 
 
-![Tela Diagrama de Classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/01fea9e7-c134-4979-aa19-35e733c4ad32)
+
+
+![Diagrama de Classes Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/34abeccd-1646-4aaf-9938-1f6fc560d8a2)
+
 
 
 
