@@ -26,7 +26,10 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 
 
-![Diagrama ER Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/f9d16cf9-fe77-4fcd-a3ef-9cb9465e847f)
+
+![Diagrama ER Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/18e9914f-79a3-4601-ba71-e793d1a3fbcd)
+
+
 
 
 
