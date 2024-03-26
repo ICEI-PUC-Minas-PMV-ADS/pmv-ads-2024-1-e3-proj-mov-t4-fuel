@@ -9,8 +9,7 @@ Será utilizado o GitHub como nosso sistema de controle de versão para gerencia
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Agora, sobre os ambientes de trabalho, ferramentas e plataformas utilizadas pela equipe, utilizaremos ferramentas adequadas para o desenvolvimento de aplicativos móveis, como o React Native que serve para ambas as plataformas (Android e IOS), além também do Visual Studio Code para codificar, o Github para controle de versão e o GitHub Project como nosso quadro Kanban. Isso fornecerá à equipe ferramentas robustas para escrever, depurar, testar o código do aplicativo e organizar a realização das tarefas.
 
 ## Controle de Versão
 
