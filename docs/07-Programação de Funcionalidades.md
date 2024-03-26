@@ -40,10 +40,6 @@
 * **Resultado Esperado:** Determinadas informações ou a base de dados total do estabelecimento são removidas.  
 
 
-# Exclusão de Informações (RF-06):
-* **Cenário:** O administrador exclui determinada informações de um estabelecimento ou exclui o estabelecimento como um todo.
-* **Resultado Esperado:** Determinadas informações ou a base de dados total do estabelecimento são removidas.
-
 
 # Recuperação de Senha (RF-07):
 * **Cenário:** O usuário solicita a recuperação de senha através do e-mail cadastrado.  
