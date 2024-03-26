@@ -59,19 +59,23 @@ Dentro dessa estrutura, a equipe se organiza de acordo com os papéis tradiciona
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Gitub Project, onde as tarefas são alocadas em sprints, classificadas de acordo com sua prioridade, listadas no backlog e dividas entre os integrantes da equipe para que sejam realizadas, testadas e finalizadas. O quadro de tarefas está estruturado da seguinte forma:
+
+**• Backlog:** Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando e mostra as tarefas e metas a serem cumpridas e suas prioridades.
+
+**• In Progress:** Lista que contém as tarefas que estão em andamento. É importante que a equipe atualize o status das tarefas para que o Scrum Master possa acompanhar o andamento do projeto e garantir que tudo esteja caminhando conforme o planejado.
+
+**• In Review:** Esta lista engloba as tarefas que estão em fase de revisão e testes. Os testadores devem verificar as documentações, códigos e funcionalidades implementadas, garantindo que estão corretas, funcionando perfeitamente e identificando possíveis erros para correção.
+
+**• Done:** nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
+O quadro kanban do GitHub Project está demonstrado na imagem abaixo e disponível através da URL: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/799
+
+ IMAGEM PROJECT
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas utilizadas pela equipe foram selecionadas com base na sua eficácia, facilidade de uso e capacidade de atender às necessidades específicas do projeto. A seguir, apresentamos as ferramentas empregadas no projeto, cada uma com sua respectiva justificativa para sua escolha:
 
 - Editor de código.
 - Ferramentas de comunicação
