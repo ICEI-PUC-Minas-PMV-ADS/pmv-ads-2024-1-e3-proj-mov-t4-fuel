@@ -11,7 +11,11 @@ Definição de como o software é estruturado em termos dos componentes que faze
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
 
-![Tela Diagrama de Classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/9ed8460d-b0b5-4b1d-a0c2-90e7c2dd4c77)
+
+
+
+![Diagrama de Classes Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/34abeccd-1646-4aaf-9938-1f6fc560d8a2)
+
 
 
 
@@ -21,7 +25,13 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
 
-![Diagrama ER Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/252731c6-ac11-412d-a282-a6d3d074a4e4)
+
+
+![Diagrama ER Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/18e9914f-79a3-4601-ba71-e793d1a3fbcd)
+
+
+
+
 
 ## Esquema Relacional
 
@@ -54,15 +64,27 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 ## Qualidade de Software
 
-Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
+A equipe elencou as seguintes subcaracterísticas para o desenvolvimento de aspectos simples do projeto de software do aplicativo. 
+1.	Usabilidade:
 
-No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
+- Compreensibilidade: Garantir que o aplicativo seja fácil para os usuários verificarem os preços dos combustíveis e os serviços oferecidos pelos postos através da iconografia e informações descritas.
+- Operacionalidade: Facilitar a navegação no aplicativo intuitivamente, através do design responsivo e da organização lógica disposta no menu de navegação.
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
-Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
+2.	Eficiência:
 
-> **Links Úteis**:
->
-> - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
+- Desempenho: O tempo de resposta rápida do aplicativo ao realizar a busca de preços de combustíveis e outras operações, visando uma experiência satisfatória ao usuário. 
+3. Compatibilidade:
+- Compatibilidade com Dispositivos: O aplicativo é compatível com uma ampla variedade de dispositivos móveis (iOS e Android) e suas diferentes versões.
+4. Segurança:
+- Confidencialidade: Garantir a proteção das informações do usuário, como dados de localização e CPF, através da criptografia e de práticas de segurança de dados. 
+- Integridade: Garantir que os dados exibidos no aplicativo, como os preços dos combustíveis, sejam precisos e não estejam sujeitos a manipulação indevida.
+5. Manutenibilidade:
+- Modificabilidade: Facilidade de fazer alterações e atualizações no aplicativo, como adicionar novos recursos ou corrigir bugs, sem causar impactos indesejados em outras partes do sistema, facilitando a atualizando do aplicativo, atendendo as necessidades dos usuários. 
+6. Confiabilidade:
+- Disponibilidade: Garantir que o aplicativo esteja sempre disponível para uso, minimizando falhas e interrupções de serviço.
+- Tolerância a Falhas: Capacidade de lidar com situações inesperadas, como falhas de rede, sem impactar negativamente a experiência do usuário.
+7. Portabilidade:
+- Adaptabilidade: Capacidade do aplicativo de se adaptar a diferentes ambientes e contextos de uso, como mudanças na localização do usuário ou configurações de idioma.
+
+As métricas utilizadas para avaliar os se os objetos foram alcançados estão descritas nos indicadores de desempenho, disponível no item 02-Especificação do Projeto.md
+

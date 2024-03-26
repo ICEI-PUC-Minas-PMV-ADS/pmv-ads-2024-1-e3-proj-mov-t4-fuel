@@ -38,11 +38,23 @@ Com o ensejo de entender melhor as personas identificadas no projeto, foram iden
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente, o processo de busca de preços de combustível e serviços oferecidos pelos postos geralmente acontece através de fontes externas, como aplicativos de mapas ou sites de comparação de preços, não permitindo que os usuários realizem pesquisa de acordo com suas preferências, como escolher bandeiras dos postos, ou localizar postos que atendam suas necessidades específicas, como troca de óleo, lavanderia, lava jato, entre outros. 
+
+Além de que as informações sobre preços e serviços podem não ser atualizadas com frequência, levando a inconsistências e falta de confiabilidade, dificultando a tomada de decisão dos usuários. 
+
+<!-- Colocar imagem do Diagrama BPMN -->
+ 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Nossa proposta é desenvolver um aplicativo móvel que aborde esses problemas existentes e ofereça uma solução abrangente para os usuários. O aplicativo permitirá que os usuários realizem pesquisas pelos preços de combustível, serviços oferecidos pelos postos, além de pesquisas avançadas como, filtrar por tipo de combustível e bandeira do posto.
+
+Permitirá também que o usuário personalize suas pesquisas de acordo com sua localização, trace rotas e favorite o posto escolhido para que tenha fácil acesso as informações. 
+
+Além de que, as informações sobre preços de combustíveis e serviços dos postos serão atualizadas em tempo real, garantindo a precisão e confiabilidade dos dados fornecidos aos usuários.
+
+Ainda, concederemos aos usuários a oportunidade de fornecer feedbacks e avaliações sobre o aplicativo, os postos de combustível e serviços, permitindo uma comunicação tri direcional entre usuários, proprietários de postos e a equipe de desenvolvimento do aplicativo.
+
 
 ### Processo 1 – NOME DO PROCESSO
 
@@ -60,11 +72,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
-
+![Indicadores de Desempenho](img/Indicadores%20de%20Desempenho.png)
 
 ## Requisitos do Projeto
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir. 
