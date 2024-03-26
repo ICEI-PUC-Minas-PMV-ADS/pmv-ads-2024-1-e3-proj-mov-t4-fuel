@@ -77,6 +77,14 @@ O quadro kanban do GitHub Project está demonstrado na imagem abaixo e disponív
 
 As ferramentas utilizadas pela equipe foram selecionadas com base na sua eficácia, facilidade de uso e capacidade de atender às necessidades específicas do projeto. A seguir, apresentamos as ferramentas empregadas no projeto, cada uma com sua respectiva justificativa para sua escolha:
 
+**• Editor de código:** O **Visual Studio Code** foi escolhido como o editor de código principal devido à sua ampla adoção na indústria de desenvolvimento de software, sua combinação de funcionalidades avançadas e possuir uma integração com o sistema de controle de versão.
+
+**• Ferramenta de Wireframes:** O **Figma** foi escolhido como ferramenta de desenho de tela por se destacar na facilidade de uso, capacidade de colaboração em tempo real, conjunto abrangente de recursos para criação de wireframes e protótipos interativos e por possuir vários recursos avançados que permitem criar designs de alta qualidade com facilidade e eficiência.
+
+**• Ferramentas de Diagramas:** Foram escolhidas três ferramentas para criação de diagramas: o **Draw.io**, o **ProjectLibre** e o **Astah**. A escolha de múltiplas ferramentas de diagramas permite à equipe utilizar a ferramenta mais adequada para cada tipo de diagrama ou contexto específico. Enquanto o **Draw.io** é usado para diagramas gerais e de propósito geral, o **ProjectLibre** é empregado para o planejamento e monitoramento de projetos, como por exemplo o Diagrama de Gantt e o **Astah** é utilizado para modelagem UML e design de sistemas de software. Essa abordagem garante que a equipe tenha ferramentas certas, eficientes e ágeis à sua disposição para documentar, planejar e projetar com eficiência.
+
+**• Ferramentas de Comunicação:** O **Microsoft Teams** e o **Whatsapp** são as ferramentas de comunicação escolhidas e utilizadas para permitir que a equipe possa adaptar sua comunicação às necessidades específicas de cada situação. Enquanto o Microsoft Teams oferece um ambiente estruturado e integrado para realizarmos nossa "daily" com uma comunicação formal, o WhatsApp oferece uma comunicação mais rápida, para situações que exigem respostas imediatas. Essa abordagem garante que a equipe tenha praticidade para se comunicar de forma eficaz e colaborar de maneira produtiva ao longo do projeto.
+
 - Editor de código.
 - Ferramentas de comunicação
 - Ferramentas de desenho de tela (_wireframing_)
