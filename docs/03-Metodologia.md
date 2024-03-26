@@ -11,10 +11,12 @@ Será utilizado o GitHub como nosso sistema de controle de versão para gerencia
 
 Agora, sobre os ambientes de trabalho, ferramentas e plataformas utilizadas pela equipe, utilizaremos ferramentas adequadas para o desenvolvimento de aplicativos móveis, como o React Native que serve para ambas as plataformas (Android e IOS), além também do Visual Studio Code para codificar, o Github para controle de versão e o GitHub Project como nosso quadro Kanban. Isso fornecerá à equipe ferramentas robustas para escrever, depurar, testar o código do aplicativo e organizar a realização das tarefas.
 
+TABELA
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+[Git](https://git-scm.com/), sendo que o [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel)
 foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
@@ -46,18 +48,14 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe adotou abordagens ágeis para o desenvolvimento do projeto, reconhecendo a necessidade de flexibilidade, colaboração e adaptação contínua aos requisitos em evolução. Como estrutura para direcionar esse processo ágil, optamos por utilizar o Scrum.
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+Dentro dessa estrutura, a equipe se organiza de acordo com os papéis tradicionais do Scrum:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+•	Scrum Master: Carolina Novaes;
+•	Product Owner: Carolina Novaes;
+•	Equipe de Desenvolvimento: Alessandro Nunes, Bruno Henrique, Carolina Novaes, Paulo Henrique, Rosimeire Carvalho, Ruan Gonzaga;
+•	Equipe de Design: Ruan Gonzaga.
 
 ### Processo
 
