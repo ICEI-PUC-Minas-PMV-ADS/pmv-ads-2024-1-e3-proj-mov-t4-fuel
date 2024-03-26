@@ -1,9 +1,11 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Considerando a natureza dinâmica do desenvolvimento de aplicações móveis e a necessidade de responder rapidamente às mudanças no mercado e nos requisitos dos usuários, adotaremos uma abordagem ágil de metodologia de trabalho do grupo para atacar o problema e desenvolver a aplicação. Utilizaremos metodologias e ferramentas como Scrum e GitHub Projects, para organizar o trabalho em iterações curtas (sprints) e priorizar o desenvolvimento de recursos com base nas tarefas propostas e no feedback contínuo dos stakeholders.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Realizaremos reuniões regulares de acompanhamento, como reuniões diárias (daily) e ferramentas de comunicação online (Whatsapp e Microsoft Teams), para facilitar e manter toda a equipe alinhada com os objetivos do projeto, discutir o progresso e identificar possíveis obstáculos. Isso garantirá uma comunicação eficaz e uma resposta rápida a quaisquer problemas que surjam.
+
+Será utilizado o GitHub como nosso sistema de controle de versão para gerenciar o código fonte do projeto e o Visual Studio Code será o principal ambiente de desenvolvimento para criação das linhas de código.
 
 ## Relação de Ambientes de Trabalho
 
