@@ -53,8 +53,11 @@ A equipe adotou abordagens ágeis para o desenvolvimento do projeto, reconhecend
 Dentro dessa estrutura, a equipe se organiza de acordo com os papéis tradicionais do Scrum:
 
 •	Scrum Master: Carolina Novaes;
+
 •	Product Owner: Carolina Novaes;
+
 •	Equipe de Desenvolvimento: Alessandro Nunes, Bruno Henrique, Carolina Novaes, Paulo Henrique, Rosimeire Carvalho, Ruan Gonzaga;
+
 •	Equipe de Design: Ruan Gonzaga.
 
 ### Processo
