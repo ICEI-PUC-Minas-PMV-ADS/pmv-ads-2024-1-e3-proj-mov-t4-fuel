@@ -42,9 +42,9 @@ Atualmente, o processo de busca de preços de combustível e serviços oferecido
 
 Além de que as informações sobre preços e serviços podem não ser atualizadas com frequência, levando a inconsistências e falta de confiabilidade, dificultando a tomada de decisão dos usuários. 
 
-<!-- Colocar imagem do Diagrama BPMN -->
+#### Diagrama BPMN - BPMNFR
+![Diagrama BPMN](img/BPMN%20Diagrama.png)
  
-
 ### Descrição Geral da Proposta
 
 Nossa proposta é desenvolver um aplicativo móvel que aborde esses problemas existentes e ofereça uma solução abrangente para os usuários. O aplicativo permitirá que os usuários realizem pesquisas pelos preços de combustível, serviços oferecidos pelos postos, além de pesquisas avançadas como, filtrar por tipo de combustível e bandeira do posto.
@@ -55,12 +55,16 @@ Além de que, as informações sobre preços de combustíveis e serviços dos po
 
 Ainda, concederemos aos usuários a oportunidade de fornecer feedbacks e avaliações sobre o aplicativo, os postos de combustível e serviços, permitindo uma comunicação tri direcional entre usuários, proprietários de postos e a equipe de desenvolvimento do aplicativo.
 
+### Processo 1 – Autenticação para o proprietário do estabelecimento
 
-### Processo 1 – NOME DO PROCESSO
+Atualmente, o cadastro de novos estabelecimentos e o preenchimento das informações, como preços, serviços oferecidos, bandeira do posto e tipos de combustíveis fornecidos, são realizados exclusivamente pelo administrador do aplicativo.
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Visando uma atualização mais ágil e eficiente, planejamos implementar, em um futuro próximo, a liberação de um usuário específico, permitindo que o próprio dono ou gerente do posto possa acessar e atualizar diretamente as informações e o cadastro do seu estabelecimento.
 
-![Processo 1](img/02-bpmn-proc1.png)
+Essa mudança tem como objetivo proporcionar maior autonomia aos proprietários de postos de combustíveis, garantindo que eles possam manter suas informações sempre atualizadas e precisas, contribuindo para uma melhor experiência do usuário e uma gestão mais eficaz dos estabelecimentos.
+ 
+
+![Processo de Melhoria 1](img/BPMN%20Melhoria%201.png)
 
 ### Processo 2 – NOME DO PROCESSO
 
@@ -83,11 +87,11 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |ID    | Descrição dos Requisitos | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01 | A aplicação permitirá o login por meio de Email e senha cadastrados previamente.   | MÉDIA |
-|RF-02 | A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.    | MÉDIA |
+|RF-02 | A aplicação deve permitir que o usuário realize pesquisas da localização dos estabelecimentos conforme sua necessidade utilizando para tal o CEP ou digitando manualmente o logradouro.    | MÉDIA |
 |RF-03 | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.    | ALTA | 
 |RF-04 | A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais | ALTA |
 |RF-05 | A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.  | ALTA |
-|RF-06 | A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. | MÉDIA|
+|RF-06 | A aplicação deve permitir ao administrador excluir informações que estiverem comprovadamente desatualizadas. | MÉDIA|
 |RF-07 | A aplicação deve pedir ao usuário que recupere sua senha a partir do Email previamente cadastrado.  | MÉDIA |
 |RF-08 | A aplicação deve permitir que os usuários realizem pesquisas de preço, tipo de combustível e bandeira do posto.    | MÉDIA |
 |RF-09 | A aplicação deverá disponibilizar um serviço de atendimento ao usuário.    | MÉDIA |
@@ -196,4 +200,4 @@ Através dele a gestão de tarefas, de pessoas e de competências estão sendo d
 
 Orçamento previsto para a realização do projeto.
 
-![Orçamento Geral](img/GestaoOrcamento.png).
+![Orçamento Geral](img/GestaoOrcamento.png)
