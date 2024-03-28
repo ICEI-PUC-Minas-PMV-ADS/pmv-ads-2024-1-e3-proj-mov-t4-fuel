@@ -15,20 +15,20 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 
 ## **Plano de Testes de Software**
  
-| **Caso de Teste** 	| **CT-01 – Cadastrar Usuário** 	|
+| **Caso de Teste** 	| **CT-01 – Cadastro/login de Usuário** 	|
 |:---:	|:---:	|
-|	Requisito Associado 	| RF-01 - A aplicação deve oferecr um cadastro divido entre usuário e administrador . |
+|	Requisito Associado 	| RF-01 - A aplicação deve oferecer um cadastro divido entre usuário e administrador . |
 | Objetivo do Teste 	| Verificar se o sistema disponibiliza o cadastro dos dois perfis, se a validação está ocorrendo. |
-| Passos 	| - Acessar o aplicativo <br> - Informar e-mail e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
-|Critério de Êxito |  	Sucesso no cadastro a partir e-mail e senha válidos;<br>
+| Passos 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
+|Critério de Êxito |  	Sucesso no cadastro a partir do número de celular e senha válidos;<br>
 |                  |  	Preenchimento de todos os campos obrigatórios. |
 |  	|  	|
 | Caso de Teste 	| **CT-02 – Pesquisa por localização**	|
-|Requisito Associado | RF-02	- A aplicação permitirá o login do usuário Locador/Locatário após o seu cadastro. |
-| Objetivo do Teste 	| Verificar se o sistema controla o acesso dos usuários de forma efetiva, ou seja, os direciona para a tela correspondente ao seu perfil. |
-| Passos 	| - Acessar o navegador<br> - Informar o endereço do Site<br> - Visualizar a página principal<br> - Acessar página de Login<br> - Informar Email e Senha |
-|Critério de Êxito | E-mails e senhas inválidos apresentar mensagem de erro<br>
-|                  | E-mails não cadastrados direcionar para a tela de cadastro. |
+|Requisito Associado | RF-02	- A aplicação permitirá o login do usuário utilizando o CEP ou a sua localização atual. |
+| Objetivo do Teste 	| A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual. |
+| Passos 	| - Acessar o aplicativo<br> <br> - Visualizar a página principal<br> - Acessar página de pesquisa <br> 
+|Critério de Êxito | e senhas inválidos apresentar mensagem de erro<br>
+|                  |
 |  	|  	|
 | Caso de Teste 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
 |Requisito Associado | RF-10	-A aplicação deve permitir que o usuário (prestador)(Locador)possa disponibilizar(cadastrar) suas vagas a partir de seu cadastro e login |
