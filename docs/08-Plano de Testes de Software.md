@@ -45,7 +45,6 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 |Requisito Associado | RF-05 A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.<br> RF-06 A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. |
 | Objetivo do Teste 	| A aplicação deve permitir ao administrador atualizar as informações e excluir informações incorretas  |
 | Passos 	| -  Acessar o aplicativo <br> Acessar página de Login<br> - Informar número de telefone e senha <br> - Acessar a área do administrador<br> -Clicar no símbolo em "Alterar informações do estabelecimento"|
-
 |Critério de Êxito |  Sucesso nas alterações cadastrais. |
 |  	|  	|
 | Caso de Teste 	| **CT-06 – Sincronização com o GPS**	|
