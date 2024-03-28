@@ -39,7 +39,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 |Requisito Associado | RF-04 A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais <br> 
 | Objetivo do Teste 	| Verificar se o administrador está conseguindo cadastrar os estabelecimentos<br> 
 | Passos 	| - Acessar o aplicativo <br> -Visualizar a página principal<br> -Clicar no símbolo em "Adicionar estabelecimento"|
-|Critério de Êxito | Cadastro realizado com êxito.<br>|                 
+|Critério de Êxito | Cadastro realizado com êxito|                 
 |  	|  	|
 | Caso de Teste 	| **CT-05 – Atualização/exclusão de Informações** |
 |Requisito Associado | RF-05 A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.<br> RF-06 A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. |
