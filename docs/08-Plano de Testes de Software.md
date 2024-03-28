@@ -29,8 +29,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 |Requisito Associado | RF-02	- A aplicação permitirá o login do usuário utilizando o CEP ou a sua localização atual. |
 | Objetivo do Teste 	| A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual. |
 | Passos 	| - Acessar o aplicativo<br> <br> - Visualizar a página principal<br> - Acessar página de pesquisa <br> 
-|Critério de Êxito | e senhas inválidos apresentar mensagem de erro<br>
-|                  |
+|Critério de Êxito | e senhas inválidos apresentar mensagem de erro<br>|                  |
 |  	|  	|
 | Caso de Teste 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
 |Requisito Associado | RF-10	-A aplicação deve permitir que o usuário (prestador)(Locador)possa disponibilizar(cadastrar) suas vagas a partir de seu cadastro e login |
