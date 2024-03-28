@@ -9,9 +9,16 @@ Será utilizado o GitHub como nosso sistema de controle de versão para gerencia
 
 ## Relação de Ambientes de Trabalho
 
-Agora, sobre os ambientes de trabalho, ferramentas e plataformas utilizadas pela equipe, utilizaremos ferramentas adequadas para o desenvolvimento de aplicativos móveis, como o React Native que serve para ambas as plataformas (Android e IOS), além também do Visual Studio Code para codificar, o Github para controle de versão e o GitHub Project como nosso quadro Kanban. Isso fornecerá à equipe ferramentas robustas para escrever, depurar, testar o código do aplicativo e organizar a realização das tarefas.
+Sobre os ambientes de trabalho e plataformas utilizadas pela equipe, utilizaremos ferramentas adequadas para o desenvolvimento de aplicativos móveis, como o React Native que serve para ambas as plataformas (Android e IOS), além também do Visual Studio Code para codificar, o Github para controle de versão e repositório, e o GitHub Project como nosso quadro Kanban. Isso fornecerá à equipe ferramentas robustas para escrever, depurar, testar o código do aplicativo e organizar a realização das tarefas.
 
-TABELA
+| Ambiente | Plataforma | Link de Acesso |
+| --- | --- | --- |
+| FrameWork | React Native | https://reactnative.dev |
+| Editor de Código | Visual Studio Code | https://code.visualstudio.com |
+| Repositório | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel |
+| Controle de Versão | Git | https://git-scm.com |
+| Quadro Kanban | GitHub Project | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/799 |
+
 
 ## Controle de Versão
 
@@ -35,14 +42,6 @@ etiquetas:
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
@@ -72,9 +71,9 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 **• Done:** nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro kanban do GitHub Project está demonstrado na imagem abaixo e disponível através da URL: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/799
+O quadro kanban do GitHub Project está demonstrado na imagem a seguir e disponível através da URL: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/799
 
- IMAGEM PROJECT
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/127356349/5972f7fa-28d4-417f-9417-7edceb7e4eb0)
 
 ### Ferramentas
 
@@ -88,14 +87,3 @@ As ferramentas utilizadas pela equipe foram selecionadas com base na sua eficác
 
 **• Ferramentas de Comunicação:** O **Microsoft Teams** e o **Whatsapp** são as ferramentas de comunicação escolhidas e utilizadas para permitir que a equipe possa adaptar sua comunicação às necessidades específicas de cada situação. Enquanto o Microsoft Teams oferece um ambiente estruturado e integrado para realizarmos nossa "daily" com uma comunicação formal, o WhatsApp oferece uma comunicação mais rápida, para situações que exigem respostas imediatas. Essa abordagem garante que a equipe tenha praticidade para se comunicar de forma eficaz e colaborar de maneira produtiva ao longo do projeto.
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
