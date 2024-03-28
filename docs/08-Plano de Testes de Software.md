@@ -4,7 +4,7 @@
 
 ## **Objetivo do Teste:**
 
-O propósito deste teste é avaliar a eficiência, a usabilidade e a satisfação do aplicativo móvel. Ele visa permitir aos usuários visualizarem os preços da gasolina e outros serviços relacionados à manutenção de veículos, além de identificar possíveis problemas que os usuários possam enfrentar durante a utilização da aplicação.
+O objetivo deste teste é avaliar a eficiência, a usabilidade e a satisfação do aplicativo móvel. Ele visa permitir aos usuários visualizarem os preços da gasolina e outros serviços relacionados à manutenção de veículos, além de identificar possíveis problemas que os usuários possam enfrentar durante a utilização da aplicação.
 
 ## **Participantes:**
 
