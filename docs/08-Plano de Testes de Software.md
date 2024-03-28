@@ -1,19 +1,39 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+# **Plano de Testes de Usabilidade Fuel**
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+## **Objetivo do Teste:**
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+O propósito deste teste é avaliar a eficiência, a usabilidade e a satisfação do aplicativo móvel. Ele visa permitir aos usuários visualizarem os preços da gasolina e outros serviços relacionados à manutenção de veículos, além de identificar possíveis problemas que os usuários possam enfrentar durante a utilização da aplicação.
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+## **Participantes:**
+
+O público-alvo para os testes de usabilidade será composto por usuários reais e potenciais da aplicação. Nossa abordagem priorizará a participação de pelo menos 5 indivíduos que representem uma ampla variedade de perfis de usuários, incluindo:
+
+*Profissionais que realizam viagens de frete em todo o Brasil.
+*Indivíduos que dependem de veículos para suas atividades diárias, como estudo, trabalho e lazer.
+*Usuários habituais de aplicativos de mobilidade urbana.
+*Empresas que realizam locação de veículos.
+
+## **Roteiro de Tarefas a serem desempenhadas:**
+
+**Usuário**
+Para o cenário de um usuário, os participantes serão solicitados a realizar as seguintes tarefas:
+1. Abrir a aplicação e fazer login ou criar uma conta.
+2. Pesquisar por localização.
+3. Visualizar uma lista com vários estabelecimentos é exibida com nome, bandeira, preço, endereço e distância.
+4. Favoritar os postos/ prestadores de serviços favoritos.
+5. Testar a sincronização com o GPS escolhido pelo usuário.
+6. Avaliar postos/prestadores de serviços.
+
+**Administrador**
+Já para o cenário de um Administrador, os participantes serão solicitados a realizar as seguintes tarefas:
+1.	Abrir a aplicação e fazer login ou criar uma conta.
+2.	Cadastrar novos parceiros
+3.	Atualizar os preços dos postos
+4.	Atualizar os serviços oferecidos pelos parceiros
+   
+
+## **Avaliação e Relatório:**
+Após a conclusão dos testes, o usuário terá de responder um questionário para obtermos um feedback da sua experiência utilizando a aplicação. Após isso, os dados coletados serão analisados para identificar problemas e possíveis melhorias.
+
