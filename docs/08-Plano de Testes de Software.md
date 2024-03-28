@@ -18,8 +18,10 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | **Caso de Teste** 	| **CT-01 – Cadastro/login de Usuário** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-01 - A aplicação deve oferecer um cadastro divido entre usuário e administrador . |
-| Objetivo do Teste 	| Verificar se o sistema disponibiliza o cadastro dos dois perfis, se a validação está ocorrendo. |
-| Passos 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
+| Objetivo do Teste 	| Verificar se o sistema disponibiliza o cadastro dos dois perfis, se a validação está ocorrendo e o login caso o usuário já tenha um cadastro|
+| Passos cadastro de novo usuário 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
+| Passos para login 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> 
+
 |Critério de Êxito |  	Sucesso no cadastro a partir do número de celular e senha válidos;<br>
 |                  |  	Preenchimento de todos os campos obrigatórios. |
 |  	|  	|
