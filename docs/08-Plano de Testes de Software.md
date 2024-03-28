@@ -4,7 +4,7 @@
 
 O documento foi produzido com o objetivo de listar todos os requisitos da aplicação e testá-los de modo a encontrar falhas antes que a aplicação seja disponiblizada para o usuário
 
-## **Sobre a aplicação Fuel**
+##  **Sobre a aplicação Fuel**
 
 É um aplicativo mobile que permite aos usuários visualizarem os preços da gasolina em vários postos de combustível, e assim ter mais possibilidades de escolha, como por exemplo o mais barato, o mais perto ou até mesmo pela avaliação do posto.
 
