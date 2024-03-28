@@ -17,7 +17,7 @@ O público-alvo para os testes de usabilidade será composto por usuários reais
 
 ## **Roteiro de Tarefas a serem desempenhadas:**
 
-##**Usuário**
+## **Usuário**
 Para o cenário de um usuário, os participantes serão solicitados a realizar as seguintes tarefas:
 1. Abrir a aplicação e fazer login ou criar uma conta.
 2. Pesquisar por localização.
@@ -26,7 +26,7 @@ Para o cenário de um usuário, os participantes serão solicitados a realizar a
 5. Testar a sincronização com o GPS escolhido pelo usuário.
 6. Avaliar postos/prestadores de serviços.
 
-##**Administrador**
+## **Administrador**
 Já para o cenário de um Administrador, os participantes serão solicitados a realizar as seguintes tarefas:
 1.	Abrir a aplicação e fazer login ou criar uma conta.
 2.	Cadastrar novos parceiros
