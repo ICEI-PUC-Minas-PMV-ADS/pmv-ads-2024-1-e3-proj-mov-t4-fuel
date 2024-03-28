@@ -36,17 +36,17 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 |Critério de Êxito | Listagem dos postos com as devidas informações disponíveis|
 |  	|  	|
 | Caso de Teste 	| **CT-04 Cadastro de Estabelecimentos**	|
-|Requisito Associado | RF-04 A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais <br> RF-05 A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.<br> RF-06 A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. |
+|Requisito Associado | RF-04 A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais <br> 
 | Objetivo do Teste 	| Verificar se o sistema está conectado corretamente com um sistema de GPS;<br> Certificar que as imagens estão sendo carregadas corretamente;<br> Verificar que o “botão” compartilhar responde aos comandos corretamente.|
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site<br> - Visualizar a página principal<br> Acessar página de Login<br> - Informar Email e Senha <br> - Acessar o ícone "Vagas"<br>  |
 |Critério de Êxito |  Ao clicar na vaga as imagens são carregadas de maneira ágil;<br>
 |                  |  Botão compartilhar ativo no layout da vaga. |
 |  	|  	|
 | Caso de Teste 	| **CT-05 – Atualização de Informações** |
-|Requisito Associado | RF-01	- A aplicação deve apresentar na página principal o serviço de vagas disponíveis próximo a localidade de interesse do cliente, que será baseado no google maps. |
-| Objetivo do Teste 	| Verificar se o sistema a partir do CEP digitado busca as vagas mais próximas. |
-| Passos 	| -  Acessar o navegador <br> - Informar o endereço do site<br> - Visualizar a página principal<br> Acessar página de Login<br> - Informar Email e Senha <br> - Acessar o ícone "Vagas"<br> - Informar o CEP da região  |
-|Critério de Êxito |   Informando o CEP as vagas da região são imediatamente carregadas. |
+|Requisito Associado | RF-05 A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.<br> RF-06 A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. |
+| Objetivo do Teste 	| A aplicação deve permitir ao administrador atualizar as informações e excluir informações incorretas  |
+| Passos 	| -  Acessar o aplicativo <br> Acessar página de Login<br> - Informar número de telefone e senha <br> - Acessar á página do administrador   |
+|Critério de Êxito |  Sucesso nas alterações de cadastro e exclusão de informações. |
 |  	|  	|
 | Caso de Teste 	| **CT-06 – Exclusão de Informações**	|
 |Requisito Associado | RF-03	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
