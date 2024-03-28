@@ -23,9 +23,9 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | Passos para login 	| -Acessar o aplicativo <br> -Informar número de celular e senha <br> -Visualizar a página principal<br> -Acessar página de Login<br> 
 |Critério de Êxito |Sucesso no cadastro a partir do número de celular e senha válidos<br>|                 
 |  	|  	|
-| Caso de Teste 	| **CT-02 – Pesquisa por localização**	|
-|Requisito Associado | RF-02	-A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o CEP ou digitando manualmente o logradouro.|
-| Objetivo do Teste 	| A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual. |
+| Caso de Teste 	| **CT-02 – Pesquisa por localização/Preço**	|
+|Requisito Associado | RF-02	-A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o CEP ou digitando manualmente o logradouro.<br> RF-08 A aplicação deve permitir que os usuários realizem pesquisas de preço, tipo de combustível e bandeira do posto.
+| ObjetivoS do Teste 	| -A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual.<br> - A aplicação deve permitir pesquisas de preço |
 | Passos 	| -Acessar o aplicativo<br> -Visualizar a página principal<br> -Acessar página de pesquisa |
 |Critério de Êxito | Sucesso na pesquisa por localização<br>|                  
 |  	|  	|
