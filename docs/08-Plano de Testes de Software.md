@@ -57,13 +57,13 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | Caso de Teste 	| **CT-07 – Favoritar Posto**	|
 |Requisito Associado | RF- 12	- A aplicação deverá permitir ao usuário favoritar posto. |
 | Objetivo do Teste 	| Verificar se aplicação permite favoritar o posto desejado pelo usuário |
-| Passos 	|-Acessar o aplicativo<br> -Visualizar a página principal<br> -Acessar página de pesquisa<br> Clicar do lado direito da tela na "estrela" para favoritar o posto. |
+| Passos 	|-Acessar o aplicativo<br> -Visualizar a página principal<br> -Acessar página de pesquisa<br> -Clicar do lado direito da tela na "estrela" para favoritar o posto. |
 |Critério de Êxito | Visualizar postos favoritados pelo usuário.| 
 |  	|  	|
 | Caso de Teste 	| **CT-08 – Serviço de Atendimento ao Usuário**	|
 |Requisito Associado | RF-09	-A aplicação deverá disponibilizar um serviço de atendimento ao usuário.|
 | Objetivo do Teste 	| Verificar se o SAC,funcionam adequadamente. |
-| Passos 	| - Acessar o aplicativo <br> - Visualizar a página principal<br> Acessar página de Login<br> - clicar no botão SAC???. |
+| Passos 	| - Acessar o aplicativo <br> - Visualizar a página principal<br> Acessar página de Login<br> -Clicar no botão SAC???. |
 |Critério de Êxito | Ao clicar no SAC o usuário é direcionando para o atendimento.
 |  	|  	|
 
