@@ -30,7 +30,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 |Critério de Êxito | Sucesso na pesquisa por localização.<br>|                  |
 |  	|  	|
 | Caso de Teste 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
-|Requisito Associado | RF-03  | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível. |
+|Requisito Associado | RF-03  | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.|
 | Objetivo do Teste 	| Verificar se a listagem de estabelecimentos está disponível e as informações de bandeira, preço, endereço e a distância entre o usuário e o serviço disponível. |
 | Passos 	| - Acessar o aplicativo <br> -Visualizar a página principal<br> -Clicar no símbolo do posto<br>|
 |Critério de Êxito | Listagem dos postos com as devidas informações disponíveis|
