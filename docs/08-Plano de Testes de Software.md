@@ -62,7 +62,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | Caso de Teste 	| **CT-08 – Serviço de Atendimento ao Usuário**	|
 |Requisito Associado | RF-09	-A aplicação deverá disponibilizar um serviço de atendimento ao usuário.|
 | Objetivo do Teste 	| Verificar se o SAC,funcionam adequadamente. |
-| Passos 	| - Acessar o aplicativo <br> - Visualizar a página principal<br> -Acessar página de Login<br> -Clicar no botão SAC???. |
+| Passos 	| - Acessar o aplicativo <br> - Visualizar a página principal<br> -Acessar página de Login<br> -Clicar em "ajuda"/ "suporte"???. |
 |Critério de Êxito | Ao clicar no SAC o usuário é direcionando para o atendimento.
 |  	|  	|
 
