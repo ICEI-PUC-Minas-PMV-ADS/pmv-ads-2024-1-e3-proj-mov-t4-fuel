@@ -86,7 +86,7 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues. 
 |ID    | Descrição dos Requisitos | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01 | A aplicação permitirá o login por meio de Email e senha cadastrados previamente.   | MÉDIA |
+|RF-01 | A aplicação permitirá o login por meio de telefone e senha cadastrados previamente.   | MÉDIA |
 |RF-02 | A aplicação deve permitir que o usuário realize pesquisas da localização dos estabelecimentos conforme sua necessidade utilizando para tal o CEP ou digitando manualmente o logradouro.    | MÉDIA |
 |RF-03 | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.    | ALTA | 
 |RF-04 | A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais | ALTA |
