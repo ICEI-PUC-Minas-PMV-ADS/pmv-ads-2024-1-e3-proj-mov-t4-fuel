@@ -18,7 +18,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | **Caso de Teste** 	| **CT-01 – Cadastro/login de Usuário** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-01 -A aplicação permitirá o login por meio do número de telefone e senha cadastrados previamente. |
-| Objetivos do Teste 	| Verificar se o sistema disponibiliza o cadastro, se a validação está ocorrendo, assim como o login caso o usuário já tenha se cadastrado.|
+| Objetivos do Teste 	| -Verificar se o sistema disponibiliza o cadastro<br> -Validaçãodos dados<br> - Login de usuário já cadastrado.|
 | Passos cadastro de novo usuário 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
 | Passos para login 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> 
 |Critério de Êxito |  	Sucesso no cadastro a partir do número de celular e senha válidos;<br>|                 
