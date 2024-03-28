@@ -1,10 +1,10 @@
 # **Plano de Testes de Usabilidade Fuel**
 
-## **Objetivo do Teste:**
+## **Objetivo do Teste**
 
 O objetivo deste teste é avaliar a eficiência, a usabilidade e a satisfação do aplicativo móvel. Ele visa permitir aos usuários visualizarem os preços da gasolina e outros serviços relacionados à manutenção de veículos, além de identificar possíveis problemas que os usuários possam enfrentar durante a utilização da aplicação.
 
-## **Participantes:**
+## **Participantes**
 
 O público-alvo para os testes de usabilidade será composto por usuários reais e potenciais da aplicação. Nossa abordagem priorizará a participação de pelo menos 5 indivíduos que representem uma ampla variedade de perfis de usuários, incluindo:
 
@@ -32,5 +32,5 @@ Já para o cenário de um Administrador, os participantes serão solicitados a r
 4.	Atualizar os serviços oferecidos pelos parceiros
    
 
-## **Avaliação e Relatório:**
+## **Avaliação e Relatório**
 Após a conclusão dos testes, o usuário terá de responder um questionário para obtermos um feedback da sua experiência utilizando a aplicação. Após isso, os dados coletados serão analisados para identificar problemas e possíveis melhorias.
