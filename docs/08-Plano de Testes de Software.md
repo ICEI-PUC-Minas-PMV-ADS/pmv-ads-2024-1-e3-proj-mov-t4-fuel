@@ -20,14 +20,14 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 |	Requisito Associado 	| RF-01 -A aplicação permitirá o login por meio do número de telefone e senha cadastrados previamente. |
 | Objetivos do Teste 	| -Verificar se o sistema disponibiliza o cadastro<br> -Validaçãodos dados<br> - Login de usuário já cadastrado.|
 | Passos cadastro de novo usuário 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
-| Passos para login 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> 
+| Passos para login 	| -Acessar o aplicativo <br> -Informar número de celular e senha <br> -Visualizar a página principal<br> -Acessar página de Login<br> 
 |Critério de Êxito |Sucesso no cadastro a partir do número de celular e senha válidos<br>|                 
 |  	|  	|
 | Caso de Teste 	| **CT-02 – Pesquisa por localização**	|
 |Requisito Associado | RF-02	-A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.|
 | Objetivo do Teste 	| A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual. |
-| Passos 	| - Acessar o aplicativo<br> <br> - Visualizar a página principal<br> - Acessar página de pesquisa <br> 
-|Critério de Êxito | Sucesso na pesquisa por localização.<br>|                  |
+| Passos 	| -Acessar o aplicativo<br> <br> - Visualizar a página principal<br> -Acessar página de pesquisa<br> 
+|Critério de Êxito | Sucesso na pesquisa por localização<br>|                  |
 |  	|  	|
 | Caso de Teste 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
 |Requisito Associado | RF-03  | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.|
