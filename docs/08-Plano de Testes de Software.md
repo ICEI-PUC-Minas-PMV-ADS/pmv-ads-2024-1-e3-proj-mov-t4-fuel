@@ -25,7 +25,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 |                  |  	Preenchimento de todos os campos obrigatórios. |
 |  	|  	|
 | Caso de Teste 	| **CT-02 – Pesquisa por localização**	|
-|Requisito Associado | RF-02	-  | A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.
+|Requisito Associado | RF-02	-A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.|
 | Objetivo do Teste 	| A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual. |
 | Passos 	| - Acessar o aplicativo<br> <br> - Visualizar a página principal<br> - Acessar página de pesquisa <br> 
 |Critério de Êxito | e senhas inválidos apresentar mensagem de erro<br>|                  |
