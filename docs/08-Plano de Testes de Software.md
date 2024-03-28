@@ -10,10 +10,10 @@ O propósito deste teste é avaliar a eficiência, a usabilidade e a satisfaçã
 
 O público-alvo para os testes de usabilidade será composto por usuários reais e potenciais da aplicação. Nossa abordagem priorizará a participação de pelo menos 5 indivíduos que representem uma ampla variedade de perfis de usuários, incluindo:
 
-*Profissionais que realizam viagens de frete em todo o Brasil.
-*Indivíduos que dependem de veículos para suas atividades diárias, como estudo, trabalho e lazer.
-*Usuários habituais de aplicativos de mobilidade urbana.
-*Empresas que realizam locação de veículos.
+- Profissionais que realizam viagens de frete em todo o Brasil.
+- Indivíduos que dependem de veículos para suas atividades diárias, como estudo, trabalho e lazer.
+- Usuários habituais de aplicativos de mobilidade urbana.
+- Empresas que realizam locação de veículos.
 
 ## **Roteiro de Tarefas a serem desempenhadas:**
 
