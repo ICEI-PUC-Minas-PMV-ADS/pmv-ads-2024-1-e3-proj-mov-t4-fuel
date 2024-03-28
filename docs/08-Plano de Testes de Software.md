@@ -21,14 +21,13 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | Objetivos do Teste 	| Verificar se o sistema disponibiliza o cadastro dos dois perfis, se a validação está ocorrendo, assim como o login caso o usuário já tenha se cadastro|
 | Passos cadastro de novo usuário 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
 | Passos para login 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> 
-|Critério de Êxito |  	Sucesso no cadastro a partir do número de celular e senha válidos;<br>
-|                  |  	Preenchimento de todos os campos obrigatórios. |
+|Critério de Êxito |  	Sucesso no cadastro a partir do número de celular e senha válidos;<br>|                 
 |  	|  	|
 | Caso de Teste 	| **CT-02 – Pesquisa por localização**	|
 |Requisito Associado | RF-02	-A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.|
 | Objetivo do Teste 	| A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual. |
 | Passos 	| - Acessar o aplicativo<br> <br> - Visualizar a página principal<br> - Acessar página de pesquisa <br> 
-|Critério de Êxito | e senhas inválidos apresentar mensagem de erro<br>|                  |
+|Critério de Êxito | Sucesso na pesquisa por localização.<br>|                  |
 |  	|  	|
 | Caso de Teste 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
 |Requisito Associado | RF-03  | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível. |
@@ -37,7 +36,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 |Critério de Êxito | Listagem dos postos com as devidas informações disponíveis|
 |  	|  	|
 | Caso de Teste 	| **CT-04 Cadastro de Estabelecimentos**	|
-|Requisito Associado | RF-02	- A aplicação deve apresentar, para cada localidade cadastrada de evento, imagens e descrição da vaga disponível.<br> RF-05 A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar vagas de acordo com seu interesse<br> RF-07 A aplicação deve permitir o compartilhamento de vagas disponíveis para locatários, através de um botão. |
+|Requisito Associado | RF-04 A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais <br> RF-05 A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.<br> RF-06 A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. |
 | Objetivo do Teste 	| Verificar se o sistema está conectado corretamente com um sistema de GPS;<br> Certificar que as imagens estão sendo carregadas corretamente;<br> Verificar que o “botão” compartilhar responde aos comandos corretamente.|
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site<br> - Visualizar a página principal<br> Acessar página de Login<br> - Informar Email e Senha <br> - Acessar o ícone "Vagas"<br>  |
 |Critério de Êxito |  Ao clicar na vaga as imagens são carregadas de maneira ágil;<br>
