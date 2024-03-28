@@ -21,7 +21,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | Objetivos do Teste 	| -Verificar se o sistema disponibiliza o cadastro<br> -Validaçãodos dados<br> - Login de usuário já cadastrado.|
 | Passos cadastro de novo usuário 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
 | Passos para login 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> 
-|Critério de Êxito |  	Sucesso no cadastro a partir do número de celular e senha válidos<br>|                 
+|Critério de Êxito |Sucesso no cadastro a partir do número de celular e senha válidos<br>|                 
 |  	|  	|
 | Caso de Teste 	| **CT-02 – Pesquisa por localização**	|
 |Requisito Associado | RF-02	-A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.|
