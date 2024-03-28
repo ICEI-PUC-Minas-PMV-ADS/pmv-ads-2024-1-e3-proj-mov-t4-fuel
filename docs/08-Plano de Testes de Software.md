@@ -1,6 +1,6 @@
 # Plano de Testes de Software
 
-## **Objetivos do Teste:**
+## **Objetivos do Teste**
 
 O documento foi produzido com o objetivo de listar todos os requisitos da aplicação e testá-los de modo a encontrar falhas antes que a aplicação seja disponiblizada para o usuário
 
