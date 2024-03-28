@@ -21,7 +21,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | Objetivos do Teste 	| -Verificar se o sistema disponibiliza o cadastro<br> -Validaçãodos dados<br> - Login de usuário já cadastrado.|
 | Passos cadastro de novo usuário 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> - Cadastrar usuário |
 | Passos para login 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> 
-|Critério de Êxito |  	Sucesso no cadastro a partir do número de celular e senha válidos;<br>|                 
+|Critério de Êxito |  	Sucesso no cadastro a partir do número de celular e senha válidos.<br>|                 
 |  	|  	|
 | Caso de Teste 	| **CT-02 – Pesquisa por localização**	|
 |Requisito Associado | RF-02	-A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o Cep ou digitando manualmente o logradouro.|
@@ -32,7 +32,7 @@ Os testes buscarão medir os graus de acessibilidade, aceitação, visam também
 | Caso de Teste 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
 |Requisito Associado | RF-03  | A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível. |
 | Objetivo do Teste 	| Verificar se a listagem de estabelecimentos está disponível e as informações de bandeira, preço, endereço e a distância entre o usuário e o serviço disponível. |
-| Passos 	| - Acessar o aplicativo <br> - Visualizar a página principal<br> Clicar no símbolo do posto<br> - <br>  |
+| Passos 	| - Acessar o aplicativo <br> -Visualizar a página principal<br> -Clicar no símbolo do posto<br>|
 |Critério de Êxito | Listagem dos postos com as devidas informações disponíveis|
 |  	|  	|
 | Caso de Teste 	| **CT-04 Cadastro de Estabelecimentos**	|
