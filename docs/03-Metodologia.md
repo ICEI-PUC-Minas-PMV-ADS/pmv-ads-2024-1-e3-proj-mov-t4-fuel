@@ -51,25 +51,25 @@ A equipe adotou abordagens ágeis para o desenvolvimento do projeto, reconhecend
 
 Dentro dessa estrutura, a equipe se organiza de acordo com os papéis tradicionais do Scrum:
 
-•	Scrum Master: Carolina Novaes;
+•	**Scrum Master:** Carolina Novaes;
 
-•	Product Owner: Carolina Novaes;
+•	**Product Owner:** Carolina Novaes;
 
-•	Equipe de Desenvolvimento: Alessandro Nunes, Bruno Henrique, Carolina Novaes, Paulo Henrique, Rosimeire Carvalho, Ruan Gonzaga;
+•	**Equipe de Desenvolvimento:** Alessandro Nunes, Bruno Henrique, Carolina Novaes, Paulo Henrique, Rosimeire Carvalho, Ruan Gonzaga;
 
-•	Equipe de Design: Ruan Gonzaga.
+•	**Equipe de Design:** Ruan Gonzaga;
 
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Gitub Project, onde as tarefas são alocadas em sprints, classificadas de acordo com sua prioridade, listadas no backlog e dividas entre os integrantes da equipe para que sejam realizadas, testadas e finalizadas. O quadro de tarefas está estruturado da seguinte forma:
 
-**• Backlog:** Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando e mostra as tarefas e metas a serem cumpridas e suas prioridades.
+• **Backlog:** Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando e mostra as tarefas e metas a serem cumpridas e suas prioridades.
 
-**• In Progress:** Lista que contém as tarefas que estão em andamento. É importante que a equipe atualize o status das tarefas para que o Scrum Master possa acompanhar o andamento do projeto e garantir que tudo esteja caminhando conforme o planejado.
+• **In Progress:** Lista que contém as tarefas que estão em andamento. É importante que a equipe atualize o status das tarefas para que o Scrum Master possa acompanhar o andamento do projeto e garantir que tudo esteja caminhando conforme o planejado.
 
-**• In Review:** Esta lista engloba as tarefas que estão em fase de revisão e testes. Os testadores devem verificar as documentações, códigos e funcionalidades implementadas, garantindo que estão corretas, funcionando perfeitamente e identificando possíveis erros para correção.
+• **In Review:** Esta lista engloba as tarefas que estão em fase de revisão e testes. Os testadores devem verificar as documentações, códigos e funcionalidades implementadas, garantindo que estão corretas, funcionando perfeitamente e identificando possíveis erros para correção.
 
-**• Done:** nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+• **Done:** nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 O quadro kanban do GitHub Project está demonstrado na imagem a seguir e disponível através da URL: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/799
 
