@@ -1,11 +1,7 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+A interface de usuário desempenha um papel fundamental na experiência dos usuários em qualquer plataforma digital. É através dela que os usuários interagem com as funcionalidades e serviços oferecidos, tornando-se um elemento crucial para o sucesso do produto. Neste documento, apresentaremos as principais interfaces da nossa plataforma, juntamente com um diagrama de fluxo do usuário, destacando como foram cuidadosamente elaboradas para atender aos requisitos funcionais, não funcionais e às histórias de usuário definidas durante o processo de desenvolvimento. Além disso, por meio do diagrama de fluxo, apresentaremos uma análise visual dos trajetos percorridos pelos usuários ou adminstradores em nossa plataforma, demonstrando como as interfaces se integram de forma harmoniosa para atender às necessidades de ambos.
 
 ## Diagrama de Fluxo
 
