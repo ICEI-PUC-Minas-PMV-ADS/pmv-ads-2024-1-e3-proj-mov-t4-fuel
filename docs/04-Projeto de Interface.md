@@ -1,7 +1,7 @@
 
 # Projeto de Interface
 
-A interface de usuário desempenha um papel fundamental na experiência dos usuários em qualquer plataforma digital. É através dela que os usuários interagem com as funcionalidades e serviços oferecidos, tornando-se um elemento crucial para o sucesso do produto. Neste documento, apresentaremos as principais interfaces da nossa plataforma, juntamente com um diagrama de fluxo do usuário, destacando como foram cuidadosamente elaboradas para atender aos requisitos funcionais, não funcionais e às histórias de usuário definidas durante o processo de desenvolvimento. Além disso, por meio do diagrama de fluxo, apresentaremos uma análise visual dos trajetos percorridos pelos usuários ou adminstradores em nossa plataforma, demonstrando como as interfaces se integram de forma harmoniosa para atender às necessidades de ambos.
+A interface de usuário desempenha um papel fundamental na experiência dos usuários em qualquer plataforma digital. É através dela que os usuários interagem com as funcionalidades e serviços oferecidos, tornando-se um elemento crucial para o sucesso do produto. Neste documento, apresentaremos as principais interfaces da nossa plataforma, destacando como foram cuidadosamente elaboradas para atender aos requisitos funcionais, não funcionais e às histórias de usuário definidas durante o processo de desenvolvimento. Além disso, por meio do diagrama de fluxo, apresentaremos uma análise visual dos trajetos percorridos pelos usuários ou adminstradores em nossa plataforma, demonstrando como as interfaces se integram para atender às necessidades de ambos.
 
 ## Diagrama de Fluxo
 
