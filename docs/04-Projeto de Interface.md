@@ -16,29 +16,28 @@ Os wireframes são esboços iniciais que representam visualmente a estrutura bá
 ![Wireframe](img/interface.png)
 ![Wireframe2](img/interface2.png)
 
-### Tela de Início
-
-PRINT
+### Tela de Início:
 A imagem acima ilustra a tela de início da aplicação, que é a primeira interação apresentada ao usuário após abrir o aplicativo. Neste wireframe, a logo e o slogan ocupam uma posição de destaque, enquanto os direitos autorais são exibidos abaixo, de forma clara e legível.
 
-### Home Page
+![Wireframe Tela de Início](img/wireTelaInicio.png)
 
-PRINT
-Na página destacada acima, apresentamos a 'Home Page', que constitui a tela inicial da aplicação. A relevância da Home Page é inquestionável, pois é a primeira página que os usuários visualizam ao acessar o aplicativo. Por isso, priorizamos a exibição das informações mais importantes neste local. Na Home Page, os usuários encontram uma lista de postos cadastrados, exibindo seus endereços, preços e bandeiras. No topo da página, encontram-se nossa logomarca, um filtro de pesquisa e os botões de 'Menu' e 'Configurações'. Além disso, na parte inferior da página, disponibilizamos uma barra de tarefas que permite aos usuários navegar facilmente pela aplicação, com opções como 'Início', 'Favoritos', 'Mapa' e 'Perfil/Login'.
+### Home Page:
+Na página destacada abaixo, apresentamos a 'Home Page', que constitui a tela inicial da aplicação. A relevância da Home Page é inquestionável, pois é a primeira página que os usuários visualizam ao acessar o aplicativo. Por isso, priorizamos a exibição das informações mais importantes neste local. Na Home Page, os usuários encontram uma lista de postos cadastrados, exibindo seus endereços, preços e bandeiras. No topo da página, encontram-se nossa logomarca, um filtro de pesquisa e os botões de 'Menu' e 'Configurações'. Além disso, na parte inferior da página, disponibilizamos uma barra de tarefas que permite aos usuários navegar facilmente pela aplicação, com opções como 'Início', 'Favoritos', 'Mapa' e 'Perfil/Login'.
 
-### Perfil do Posto
+![Wireframe Home Page](img/wireHome.png)
 
-PRINT
+### Perfil do Posto:
 A página de perfil do posto é projetada para ser uma fonte abrangente de informações, destinada a atender às necessidades do usuário. Ao clicar em um posto específico, o usuário é direcionado para a página de perfil, onde pode encontrar detalhes como horário de funcionamento, preços dos combustíveis disponíveis, rota até o local, além de outros serviços oferecidos por este mesmo posto. Além disso, os usuários têm a possibilidade de avaliar o estabelecimento, contribuindo para uma experiência mais completa.
 
-### Login
+![Wireframe Perfil Posto](img/wirePerfilPosto.png)
 
-PRINT
-A imagem acima ilustra o wireframe da tela de 'Login', na qual o usuário pode efetuar login ou se cadastrar no aplicativo. Esta função proporciona praticidade ao salvar informações do usuário, facilitando e disponibilizando mais recursos para o uso da aplicação.
+### Login:
+A imagem abaixo ilustra o wireframe da tela de 'Login', na qual o usuário pode efetuar login ou se cadastrar no aplicativo. Esta função proporciona praticidade ao salvar informações do usuário, facilitando e disponibilizando mais recursos para o uso da aplicação.
 
-### Favoritos
+![Wireframe Login](img/wireLogin.png)
 
-PRINT
-Com o objetivo de aprimorar a usabilidade da aplicação para o usuário, oferecemos a funcionalidade de favoritar postos de sua preferência. Dessa forma, o usuário pode acessar facilmente a tela de 'Favoritos' para visualizar com maior agilidade as suas escolhas previamente salvas, conforme exemplificado na tela acima.
+### Favoritos:
+Com o objetivo de aprimorar a usabilidade da aplicação para o usuário, oferecemos a funcionalidade de favoritar postos de sua preferência. Dessa forma, o usuário pode acessar facilmente a tela de 'Favoritos' para visualizar com maior agilidade as suas escolhas previamente salvas, conforme exemplificado na tela abaixo.
 
+![Wireframe Favoritos](img/wireFavoritos.png)
  
