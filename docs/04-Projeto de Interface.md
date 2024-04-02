@@ -11,7 +11,8 @@ O diagrama apresenta o fluxo de interação do usuário, administrador e API do 
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Wireframe](img/interface.png)
+![Wireframe2](img/interface2.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
