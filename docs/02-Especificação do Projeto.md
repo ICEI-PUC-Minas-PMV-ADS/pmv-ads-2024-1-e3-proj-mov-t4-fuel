@@ -66,11 +66,17 @@ Essa mudança tem como objetivo proporcionar maior autonomia aos proprietários 
 
 ![Processo de Melhoria 1](img/BPMN%20Melhoria%201.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Login
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+Atualmente, o acesso ao aplicativo requer que o usuário utilize seu telefone e senha previamente cadastrados, o que pode ser um processo desencorajador para alguns usuários.
 
-![Processo 2](img/02-bpmn-proc2.png)
+Com o objetivo de otimizar e facilitar o acesso dos usuários ao aplicativo, planejamos implementar uma opção adicional de login que permitirá aos usuários acessarem o aplicativo de forma mais rápida e conveniente.
+
+Esta nova opção de login pode incluir métodos alternativos, como login por código de autenticação, integração com redes sociais ou autenticação biométrica, proporcionando aos usuários uma experiência de acesso mais flexível e adequada às suas preferências.
+
+Essa melhoria visa tornar o processo de acesso ao aplicativo mais intuitivo e acessível, garantindo uma experiência de usuário mais agradável e eficiente.
+
+![Processo de Melhoria 2](img/BPMN%20Melhoria%202.png)
 
 ## Indicadores de Desempenho
 
