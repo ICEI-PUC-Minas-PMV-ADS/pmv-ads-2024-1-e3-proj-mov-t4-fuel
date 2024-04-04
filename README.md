@@ -12,7 +12,6 @@ O projeto FUEL+, foi concebido da ideia de criar um aplicativo mobile, para ajud
 
 ## Integrantes
 * Alessandro Nunes Assunção
-* Bruno Henrique Comassetto 
 * Carolina Novaes Leite
 * Paulo Henrique da Silva Carvalho
 * Rosimeire de Fátima Carvalho
