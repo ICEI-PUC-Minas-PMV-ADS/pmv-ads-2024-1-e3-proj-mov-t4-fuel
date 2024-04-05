@@ -13,8 +13,8 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 
 
+![Diagrama de classe Fuel+ drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/90219fc9-2d4c-4937-bcfa-97b2b649f393)
 
-![Diagrama de Classes Fuel+](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/34abeccd-1646-4aaf-9938-1f6fc560d8a2)
 
 
 
@@ -28,7 +28,9 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 
 
-![Diagrama ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/927ef9d9-0e45-44fb-9cd3-36b1dd1e3adb)
+
+![Diagrama ER Fuel+ drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/29c3e7f7-29a0-40f8-8647-e9e9253c4973)
+
 
 
 
@@ -39,7 +41,8 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
  
 
 
-![Diagrama Modelo Relacional](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/1440ff49-f294-4b55-9305-b882082a6e9d)
+![Diagrama Modelo Relacional drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/946e56a6-af88-4262-aa12-38dae98fdebd)
+
 
 
 ## Modelo Físico
