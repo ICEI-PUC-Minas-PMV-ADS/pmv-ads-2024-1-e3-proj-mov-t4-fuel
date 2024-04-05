@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T15:04:44.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hhAR95cKzMgSuneAu8ky" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T15:06:49.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="X4hsLsglPlYfLomLKcoa" version="24.2.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2497" dy="877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -268,8 +268,8 @@
             <mxPoint x="583" y="578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ptaM--oRK4xzimXhFeZ--1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Diagrama Entidade Relacionamento Fuel+&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-246" y="34" width="497" height="41" as="geometry" />
+        <mxCell id="ptaM--oRK4xzimXhFeZ--1" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Diagrama Entidade Relacionamento Fuel+&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="32" width="577" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
