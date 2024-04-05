@@ -7,9 +7,11 @@ import TelaInicial from "./componentes/telainicial";
 const App = () => {
 
   return (
-    <View style={styles.container}>
+
+    <View style= {styles.container}>
       <TelaInicial />
     </View>
+    
   );
 };
 
