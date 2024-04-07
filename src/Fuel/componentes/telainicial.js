@@ -1,15 +1,15 @@
 import React from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
+import { black } from 'react-native-paper/lib/typescript/styles/themes/v2/colors';
 
 const TelaInicial = () => {
     
   return (
 <>
     <Image style={styles.logo}
-      source={require('../Img/Logo/LogoG.png')}
-      
+      source={require('../Img/Logo/LogoFuel.png')}
     />
-    <Text style={styles.text}>Bem-vindo ao Fuel+</Text>
+    <Text style={styles.text}>Melhores preços e serviços para seu veículo</Text>
 </>
   );
 };
@@ -23,16 +23,16 @@ const styles = StyleSheet.create({
   },
 
   logo: {
-    width: 2000, // Largura
-    height: 200, // Altura
+    width: 390, // Largura
+    height: 140, // Altura
   },
   
   text: {
-    fontSize: 40,
+    fontSize: 19,
     fontWeight: 'bold',
+    color: 'black'
   },
   
 });
 
 export default TelaInicial;
-
