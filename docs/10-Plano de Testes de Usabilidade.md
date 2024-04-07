@@ -34,3 +34,6 @@ Já para o cenário de um Administrador, os participantes serão solicitados a r
 
 ## **Avaliação e Relatório**
 Após a conclusão dos testes, o usuário terá de responder um questionário para obtermos um feedback da sua experiência utilizando a aplicação. Após isso, os dados coletados serão analisados para identificar problemas e possíveis melhorias.
+
+Formulário: https://forms.gle/ViVScHWfS4wZ1dSbA
+
