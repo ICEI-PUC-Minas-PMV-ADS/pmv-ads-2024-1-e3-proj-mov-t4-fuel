@@ -1,8 +1,23 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { View, Text, Image, StyleSheet, Dimensions, Button, TouchableOpacity, Alert } from 'react-native';
+import ImagePicker from 'react-native-image-picker';
 
 const MeuPerfil = () => {
+   const [imagemPerfil, setImagemPerfil] = useState(null);
+
    const tamanhoTela = Dimensions.get('window').width;
+
+   const selecionarImagem = () => {
+      ImagePicker.launchImageLibrary({}, resposta => {
+         if (resposta.didCancel) {
+            console.log('Seleção de imagem cancelada');
+         } else if (resposta.error) {
+            console.log('Erro ao selecionar imagem:', resposta.error);
+         } else {
+            setImagemPerfil(resposta.uri);
+         }
+      });
+   };
 
    return (
       <View style={styles.container}>
@@ -22,6 +37,18 @@ const MeuPerfil = () => {
             />
             <Text style={styles.buttonText}>Sair</Text>
          </TouchableOpacity>
+
+         <TouchableOpacity style={styles.imageContainer} onPress={selecionarImagem}>
+            {imagemPerfil ? (
+               <Image source={{ uri: imagemPerfil }} style={styles.image} />
+            ) : (
+               <Image
+                  source={require('../Img/Icones/addfoto.png')}
+                  style={styles.image}
+               />
+            )}
+         </TouchableOpacity>
+
       </View>
    );
 };
@@ -30,21 +57,21 @@ const styles = StyleSheet.create({
    container: {
       flex: 1,
       width: '100%',
-      justifyContent: 'flex-start', //Centraliza verticalmente
-      alignItems: 'center', // Centraliza horizontalmente
+      justifyContent: 'flex-start', 
+      alignItems: 'center',
       backgroundColor: '#ffffff',
    },
    logoContainer: {
-      width: '100%', // Ajuste largura do container
-      height: '10%', // Ajuste altura do container
+      width: '100%',
+      height: '10%',
       backgroundColor: '#00052F',
-      justifyContent: 'center', // Centraliza verticalmente
-      alignItems: 'center', // Centraliza horizontalmente
+      justifyContent: 'center',
+      alignItems: 'center',
    },
    logo: {
-      width: '45%', // Ajuste largura do container
-      height: '350%',// Ajuste altura do container
-      resizeMode: 'contain', // Ajusta a imagem para caber dentro do contêiner mantendo a proporção
+      width: '45%',
+      height: '350%',
+      resizeMode: 'contain',
    },
    text: {
       fontSize: 45,
@@ -52,23 +79,31 @@ const styles = StyleSheet.create({
       alignItems: 'flex-start',
       justifyContent: 'flex-start',
       color: '#272727',
+      marginTop: 10,
    },
    button: {
       flexDirection: 'row',
-      width: '50%', //tamanho vertical
+      width: '50%',
       paddingVertical: 10,
       paddingHorizontal: 20,
       backgroundColor: 'red',
-      borderRadius: 35, //arredondar botao
+      borderRadius: 35,
       justifyContent: 'center',
-      alignItems: 'center', //centralizar botao verticalmente
+      alignItems: 'center',
       position: 'absolute',
-      bottom: 20, //deixar botao na parte inferior
+      bottom: 20,
    },
    buttonText: {
       fontSize: 18,
       fontWeight: 'bold',
       color: 'black',
+   },
+   imageContainer: {
+      marginTop: 50,
+   },
+   image: {
+      width: 100,
+      height: 100,
    },
 });
 
