@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, Image, StyleSheet, Dimensions, Button, TouchableOpacity, Alert } from 'react-native';
-import ImagePicker from 'react-native-image-picker';
+//import ImagePicker from 'react-native-image-picker';
 
 const MeuPerfil = () => {
    const [imagemPerfil, setImagemPerfil] = useState(null);
@@ -21,7 +21,9 @@ const MeuPerfil = () => {
 
    return (
       <View style={styles.container}>
+        
          <View style={styles.logoContainer}>
+
             <Image
                source={require('../Img/Logo/LogoP.png')}
                style={styles.logo}
@@ -49,15 +51,54 @@ const MeuPerfil = () => {
             )}
          </TouchableOpacity>
 
+         <View style={styles.footer}>
+         <TouchableOpacity styles={styles.iconeFooter} onPress={() => console.log('Menu clicado')}>
+               <Image
+                  source={require('../Img/Icones/menu.png')}
+                  style={styles.iconeMenu}
+               
+               />
+            </TouchableOpacity>
+
+            <TouchableOpacity styles={styles.iconeFooter} onPress={() => console.log('Menu clicado')}>
+               <Image
+                  source={require('../Img/Icones/favoritos.png')}
+                  style={styles.iconeFav}
+               
+               />
+            </TouchableOpacity>
+
+            <TouchableOpacity styles={styles.iconeFooter} onPress={() => console.log('Menu clicado')}>
+               <Image
+                  source={require('../Img/Icones/mapa.png')}
+                  style={styles.iconeMapa}
+               
+               />
+            </TouchableOpacity>
+
+            <TouchableOpacity styles={styles.iconeFooter} onPress={() => console.log('Menu clicado')}>
+               <Image
+                  source={require('../Img/Icones/loginperfil.png')}
+                  style={styles.iconeLogin}
+               
+               />
+            </TouchableOpacity>
+            
+         </View>   
       </View>
+
+
+
+
    );
 };
 
 const styles = StyleSheet.create({
+   //Cabeçalho
    container: {
       flex: 1,
       width: '100%',
-      justifyContent: 'flex-start', 
+      justifyContent: 'flex-start',
       alignItems: 'center',
       backgroundColor: '#ffffff',
    },
@@ -68,11 +109,18 @@ const styles = StyleSheet.create({
       justifyContent: 'center',
       alignItems: 'center',
    },
+   // Logo do Cabeçalho
    logo: {
       width: '45%',
       height: '350%',
       resizeMode: 'contain',
    },
+
+   //Icones do Cabeçalho
+  
+  
+
+//Texto Meu Perfil
    text: {
       fontSize: 45,
       fontWeight: 'bold',
@@ -81,6 +129,8 @@ const styles = StyleSheet.create({
       color: '#272727',
       marginTop: 10,
    },
+
+   // Botão de Sair/Logout
    button: {
       flexDirection: 'row',
       width: '50%',
@@ -92,6 +142,7 @@ const styles = StyleSheet.create({
       alignItems: 'center',
       position: 'absolute',
       bottom: 20,
+      marginVertical:85,
    },
    buttonText: {
       fontSize: 18,
@@ -105,6 +156,53 @@ const styles = StyleSheet.create({
       width: 100,
       height: 100,
    },
+
+   //Rodapé
+   footer: {
+      width: '100%',
+      height: '10%',
+      backgroundColor: '#00052F',
+      justifyContent: 'center',
+      alignItems: 'center',
+      bottom: 0,
+      paddingBottom: 10,
+      position: 'absolute',
+      flexDirection: 'row',
+},
+
+iconeFooter:{
+   marginHorizontal: 20,
+
+},
+   iconeMenu: {
+      width: 50, 
+      height: 50, 
+      marginRight: 50 
+      
+},
+
+iconeFav: {
+   width: 50, 
+   height: 50, 
+   marginRight: 50
+   
+},
+
+iconeMapa: {
+   width: 50, 
+   height: 50,
+   marginLeft: 50 
+
+},
+
+iconeLogin: {
+   width: 50, 
+   height: 50, 
+   marginLeft: 50 
+ 
+}
+
+
 });
 
 export default MeuPerfil;
