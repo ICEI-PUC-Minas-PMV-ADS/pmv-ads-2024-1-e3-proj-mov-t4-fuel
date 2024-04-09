@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { View, Text, Image, StyleSheet, Dimensions, Button, TouchableOpacity, Alert } from 'react-native';
-//import ImagePicker from 'react-native-image-picker';
+import { Appbar } from 'react-native-paper'; // Importe o Appbar do react-native-paper
+import { MaterialCommunityIcons } from '@expo/vector-icons';
+
 
 const MeuPerfil = () => {
    const [imagemPerfil, setImagemPerfil] = useState(null);
-
-   const tamanhoTela = Dimensions.get('window').width;
 
    const selecionarImagem = () => {
       ImagePicker.launchImageLibrary({}, resposta => {
@@ -23,20 +23,21 @@ const MeuPerfil = () => {
       <View style={styles.container}>
         
          <View style={styles.logoContainer}>
+            <TouchableOpacity onPress={() => console.log('Menu clicado')} style={styles.menuContainer}>
+               <Image source={require('../Img/Icones/menu.png')} style={styles.menu} />
+            </TouchableOpacity>
 
-            <Image
-               source={require('../Img/Logo/LogoP.png')}
-               style={styles.logo}
-            />
+            <Image source={require('../Img/Logo/LogoP.png')} style={styles.logo} />
+
+            <TouchableOpacity onPress={() => console.log('Configurações clicadas')} style={styles.configContainer}>
+               <Image source={require('../Img/Icones/config.png')} style={styles.config} />
+            </TouchableOpacity>
          </View>
 
          <Text style={styles.text}>Meu Perfil</Text>
 
          <TouchableOpacity style={styles.button} onPress={() => Alert.alert('Sair')}>
-            <Image
-               source={require('../Img/Icones/logout.png')}
-               style={{ width: 20, height: 20, marginRight: 10 }}
-            />
+            <Image source={require('../Img/Icones/logout.png')} style={{ width: 24, height: 24, marginRight: 10 }} />
             <Text style={styles.buttonText}>Sair</Text>
          </TouchableOpacity>
 
@@ -44,57 +45,22 @@ const MeuPerfil = () => {
             {imagemPerfil ? (
                <Image source={{ uri: imagemPerfil }} style={styles.image} />
             ) : (
-               <Image
-                  source={require('../Img/Icones/addfoto.png')}
-                  style={styles.image}
-               />
+               <Image source={require('../Img/Icones/addfoto.png')} style={styles.image} />
             )}
          </TouchableOpacity>
 
-         <View style={styles.footer}>
-         <TouchableOpacity styles={styles.iconeFooter} onPress={() => console.log('Menu clicado')}>
-               <Image
-                  source={require('../Img/Icones/menu.png')}
-                  style={styles.iconeMenu}
-               
-               />
-            </TouchableOpacity>
+         <Appbar style={styles.footer}>
+            <Appbar.Action icon={require('../Img/Icones/homepage.png')} color="white" size={36} onPress={() => console.log('Home clicado')} style={styles.iconbar} />
+            <Appbar.Action icon={require('../Img/Icones/favorito.png')} color="white" size={36} onPress={() => console.log('Favoritos clicado')} style={styles.iconbar} />
+            <Appbar.Action icon={require('../Img/Icones/mapa.png')} color="white" size={36} onPress={() => console.log('Mapa clicado')} style={styles.iconbar} />
+            <Appbar.Action icon={require('../Img/Icones/perfil.png')} color="white" size={36} onPress={() => console.log('Perfil clicado')} style={styles.iconbar} />
+         </Appbar>
 
-            <TouchableOpacity styles={styles.iconeFooter} onPress={() => console.log('Menu clicado')}>
-               <Image
-                  source={require('../Img/Icones/favoritos.png')}
-                  style={styles.iconeFav}
-               
-               />
-            </TouchableOpacity>
-
-            <TouchableOpacity styles={styles.iconeFooter} onPress={() => console.log('Menu clicado')}>
-               <Image
-                  source={require('../Img/Icones/mapa.png')}
-                  style={styles.iconeMapa}
-               
-               />
-            </TouchableOpacity>
-
-            <TouchableOpacity styles={styles.iconeFooter} onPress={() => console.log('Menu clicado')}>
-               <Image
-                  source={require('../Img/Icones/loginperfil.png')}
-                  style={styles.iconeLogin}
-               
-               />
-            </TouchableOpacity>
-            
-         </View>   
       </View>
-
-
-
-
    );
 };
 
 const styles = StyleSheet.create({
-   //Cabeçalho
    container: {
       flex: 1,
       width: '100%',
@@ -104,36 +70,45 @@ const styles = StyleSheet.create({
    },
    logoContainer: {
       width: '100%',
-      height: '10%',
+      height: '13%',
       backgroundColor: '#00052F',
-      justifyContent: 'center',
+      flexDirection: 'row', 
+      justifyContent: 'space-between',
       alignItems: 'center',
    },
-   // Logo do Cabeçalho
    logo: {
       width: '45%',
       height: '350%',
+      resizeMode: 'center',
+      alignItems: 'center',
+   },
+   menuContainer: {
+      marginLeft: 15,
+   },
+   menu: {
+      width: 30,
+      height: 30,
       resizeMode: 'contain',
    },
-
-   //Icones do Cabeçalho
-  
-  
-
-//Texto Meu Perfil
+   configContainer: {
+      marginRight: 15,
+   },
+   config: {
+      width: 30,
+      height: 30,
+      resizeMode: 'contain',
+   },
    text: {
       fontSize: 45,
       fontWeight: 'bold',
       alignItems: 'flex-start',
       justifyContent: 'flex-start',
       color: '#272727',
-      marginTop: 10,
+      marginTop: 2,
    },
-
-   // Botão de Sair/Logout
    button: {
       flexDirection: 'row',
-      width: '50%',
+      width: '40%',
       paddingVertical: 10,
       paddingHorizontal: 20,
       backgroundColor: 'red',
@@ -142,22 +117,20 @@ const styles = StyleSheet.create({
       alignItems: 'center',
       position: 'absolute',
       bottom: 20,
-      marginVertical:85,
+      marginVertical: 85,
    },
    buttonText: {
-      fontSize: 18,
+      fontSize: 16,
       fontWeight: 'bold',
       color: 'black',
    },
    imageContainer: {
-      marginTop: 50,
+      marginTop: 20,
    },
    image: {
-      width: 100,
-      height: 100,
+      width: 70,
+      height: 70,
    },
-
-   //Rodapé
    footer: {
       width: '100%',
       height: '10%',
@@ -165,44 +138,13 @@ const styles = StyleSheet.create({
       justifyContent: 'center',
       alignItems: 'center',
       bottom: 0,
-      paddingBottom: 10,
+      paddingBottom: 5,
       position: 'absolute',
       flexDirection: 'row',
-},
-
-iconeFooter:{
-   marginHorizontal: 20,
-
-},
-   iconeMenu: {
-      width: 50, 
-      height: 50, 
-      marginRight: 50 
-      
-},
-
-iconeFav: {
-   width: 50, 
-   height: 50, 
-   marginRight: 50
-   
-},
-
-iconeMapa: {
-   width: 50, 
-   height: 50,
-   marginLeft: 50 
-
-},
-
-iconeLogin: {
-   width: 50, 
-   height: 50, 
-   marginLeft: 50 
- 
-}
-
-
+   },
+   iconbar: {
+      marginHorizontal: 25,
+   },
 });
 
 export default MeuPerfil;
