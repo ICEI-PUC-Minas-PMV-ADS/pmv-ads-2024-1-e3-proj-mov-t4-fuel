@@ -12,7 +12,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Passos para login 	| -Acessar o aplicativo <br> -Informar número de celular e senha <br> -Visualizar a página principal<br> -Acessar página de Login<br> 
 |Critério de Êxito |Sucesso no cadastro a partir do número de celular e senha válidos<br>|  
 |Resultado Esperado | - Espera-se que a aplicação confirme o cadastro de novos usuários assim que os dados requisitados forem validados<br> - A partir do cadastro confirmado a aplicação deve direcionar o usuário para realizar o login com número de telefone e senha válidos conforme a regra de negócio<br>|
-|Resultado Obtido | - Não foram implementadas todas as funcionalidades.<br> -Na tela "Meu Perfil" o campo Nome não foi implementado um número máximo de caracteres, o campo "Telefone" não foi delimitado o número máximo de caracteres tampouco foi restrito para apenas caracteres númericos e, por fim, o campo "Email" não está delimitado para o formato padrão.<br> - Botões ainda não foram implemntados.|
+|Resultado Obtido | - Não foram implementadas todas as funcionalidades.<br> -Na tela "Meu Perfil" o campo Nome não foi implementado um número máximo de caracteres, o campo "Telefone" não foi delimitado o número máximo de caracteres tampouco foi restrito para apenas caracteres númericos e, por fim, o campo "Email" não está delimitado para o formato padrão.<br> - Botões ainda não foram implementados.|
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/08bf63f5-2b1c-4cd7-9a95-29686316f2eb
 
