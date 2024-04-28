@@ -1,11 +1,11 @@
 # Registro de Testes de Usabilidade
 
-Teste de Usabilidade- Usuruário
+### **Usuário**
 
 Para o cenário de um usuário, os participantes foram solicitados a realizar os seguintes testes:
 
 Abrir a aplicação e fazer login ou criar uma conta:
- ![Alt text](<img/Teste de usabilidade/Home.png>)
+ ![Alt text](<img/Teste de usabilidade/Home.png> ) 
 Home page da aplicação:
  ![Alt text](<img/Teste de usabilidade/Meu perfil.png>)
 Criar conta:
@@ -21,3 +21,7 @@ Favoritar os postos/ prestadores de serviços favoritos:(Em desenvolvimento)
 Testar a sincronização com o GPS escolhido pelo usuário:(Em desenvolvimento)
 
 Avaliar postos/prestadores de serviços:(Em desenvolvimento)
+
+### **Admnistrador**
+
+As funcionalidades relativas ao cadastro do usuário administrador e ao cadastros dos postos ainda não foram desenvolvidas. 
