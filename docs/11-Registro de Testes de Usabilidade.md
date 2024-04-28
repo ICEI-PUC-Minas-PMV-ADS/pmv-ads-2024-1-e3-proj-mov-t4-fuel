@@ -5,7 +5,7 @@ Teste de Usabilidade- Usuruário
 Para o cenário de um usuário, os participantes foram solicitados a realizar os seguintes testes:
 
 Abrir a aplicação e fazer login ou criar uma conta:
-![Alt text](<imag/abrir.png) ![Alt text](<img/Teste de usabilidade/Home.png>)
+ ![Alt text](<img/Teste de usabilidade/Home.png>)
 
 Home page da aplicação:
 ![Alt text](<imag/abrir.png) ![Alt text](<img/Teste de usabilidade/Meu perfil.png>)
