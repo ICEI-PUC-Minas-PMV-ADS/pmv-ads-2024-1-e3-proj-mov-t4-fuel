@@ -21,4 +21,6 @@ O desenvolvimento da aplicação pode ser dimensionado em três pilares principa
    Por fim, vale salientar que o resultado proposto foi alcançado, contudo, como todo processo de desenvolvimento naturalmente constata-se a necessidade de melhorias à medida que a equipe evolui no aprendizado e identifica novas funcionalidades a serem implementadas. Utilizamos metodologias ágeis, como o Scrum, minimizando assim, o tempo de entrega do projeto ou funcionalidade, evitando assim, desperdícios de recursos e garantindo a satisfação de todos envolvidos.
 
 ## Apresentação em vídeo
-Para acessar o vídeo de apresentação clique [aqui](fuel-plus-video.mp4)!
+Assista o vídeo disponível no Youtube: [https://www.youtube.com/watch?v=uaVCpbvd3k4](https://www.youtube.com/watch?v=uaVCpbvd3k4)
+
+Para realizar o download clique [aqui](fuel-plus-video.mp4)!
