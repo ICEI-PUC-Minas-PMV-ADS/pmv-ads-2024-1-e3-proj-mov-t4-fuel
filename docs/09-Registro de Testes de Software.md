@@ -83,7 +83,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Critério de Êxito | Ao clicar no SAC o usuário é direcionando para o atendimento.|
 |Resultado Esperado | |
 |Resultado Obtido | Funcionalidade ainda não implementada.<br>|
-|:---:	|:---:	|
+
 
 ## Avaliação
 
