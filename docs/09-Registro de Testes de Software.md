@@ -11,8 +11,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Passos para login 	| -Acessar o aplicativo <br> -Informar número de celular e senha <br> -Visualizar a página principal<br> -Acessar página de Login<br> 
 |Critério de Êxito |Sucesso no cadastro a partir do número de celular e senha válidos<br>|  
 |Resultado Esperado | - Espera-se que a aplicação confirme o cadastro de novos usuários assim que os dados requisitados forem validados<br> - A partir do cadastro confirmado a aplicação deve direcionar o usuário para realizar o login com número de telefone e senha válidos conforme a regra de negócio<br>|
-|Resultado Obtido | -A aplicação confirmA o cadastro de novos usuários assim que os dados requisitados foram validados
-- A partir do cadastro confirmado a aplicação direciona o usuário para realizar o login com número de telefone e senha válidos.<br>|
+|Resultado Obtido | -A aplicação confirma o cadastro de novos usuários assim que os dados requisitados foram validados- A partir do cadastro confirmado a aplicação direciona o usuário para realizar o login com número de telefone e senha válidos.<br>|
 
 
 | **Caso de Teste** 	| **CT-02 – Pesquisa por localização/Preço**	|
@@ -25,7 +24,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Resultado Obtido | -A aplicação exibe uma lista de estabelecimentos
 -Permite que os usuário realize pesquisa de preço, tipo de combustível e bandeira do posto<br>|
 
-|  	|  	|
+|:---:	|:---:	|
 | **Caso de Teste** 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
 |Requisito Associado | RF-03  A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.|
 | Objetivo do Teste 	| Verificar se a listagem de estabelecimentos está disponível e as informações de bandeira, preço, endereço e a distância entre o usuário e o serviço disponível. |
@@ -33,7 +32,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Critério de Êxito | Listagem dos postos com as devidas informações disponíveis|
 |Resultado Esperado | - Espera-se qua a aplicação disponibilize uma lista de estabelecimentos previamente cadastrados com nome, bandeira, preço, endereço e distância que possibilite ao usuário escolher o establecimento de sua preferência |
 |Resultado Obtido | Listagem dos postos com as devidas informações disponíveis <br> |
-|  	|  	|
+|:---:	|:---:	|
 | **Caso de Teste**  	| **CT-04 Cadastro de Estabelecimentos**	|
 |Requisito Associado | RF-04 A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais <br> 
 | Objetivo do Teste 	| Verificar se o administrador está conseguindo cadastrar os estabelecimentos<br> 
@@ -41,7 +40,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Critério de Êxito | Cadastro realizado com êxito<br>|  
 |Resultado Esperado | |
 |Resultado Obtido | Cadastro realizado com sucesso.<br> |
-|  	|  	|
+|:---:	|:---:	|
 |**Caso de Teste**  	| **CT-05 – Atualização/exclusão de Informações** |
 |Requisito Associado | RF-05 A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.<br> RF-06 A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. |
 | Objetivo do Teste 	| A aplicação deve permitir ao administrador atualizar as informações e excluir informações incorretas  |
@@ -49,7 +48,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Critério de Êxito |  Sucesso nas alterações cadastrais.<br> |
 |Resultado Esperado | |
 |Resultado Obtido | Funcionalidade ainda não implementada. <br>|
-|  	|  	|
+|:---:	|:---:	|
 | **Caso de Teste**  	| **CT-06 – Sincronização com o GPS**	|
 |Requisito Associado | RF-10 A aplicação deverá ser integrada a um serviço de GPS para que trace a rota ideal do usuário até o posto desejado. |
 | Objetivo do Teste 	| Verificar a Sincronização com o GPS desejado com o posto selecionado no aplicativo.|
@@ -57,7 +56,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Critério de Êxito | 	Integrar a aplicação móvel com o GPS selecinado pelo usuário.<br> |
 |Resultado Esperado | Ao selecionar um estabelecimento o usuário deve ser direcionado pela aplicação para um aplicativo de navegação o qual traçará a rota para o usuário.<br>  |
 |Resultado Obtido | - Integração da aplicação móvel com o GPS selecinado pelo usuário, realizada com sucesso. <br>|
-|  	|  	|
+|:---:	|:---:	|
 | **Caso de Teste**  	| **CT-07 – Favoritar Posto**	|
 |Requisito Associado | RF- 12	- A aplicação deverá permitir ao usuário favoritar posto. <br>|
 | Objetivo do Teste 	| Verificar se aplicação permite favoritar o posto desejado pelo usuário <br> |
@@ -65,7 +64,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Critério de Êxito | Visualizar postos favoritados pelo usuário.<br>| 
 |Resultado Esperado | |
 |Resultado Obtido | Funcionalidade ainda não implementada.<br> |
-|  	|  	|
+|:---:	|:---:	|
 | **Caso de Teste**  	| **CT-08 – Serviço de Atendimento ao Usuário**	|
 |Requisito Associado | RF-09	-A aplicação deverá disponibilizar um serviço de atendimento ao usuário.|
 | Objetivo do Teste 	| Verificar se o SAC,funcionam adequadamente. |
@@ -73,7 +72,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Critério de Êxito | Ao clicar no SAC o usuário é direcionando para o atendimento.|
 |Resultado Esperado | |
 |Resultado Obtido | Funcionalidade ainda não implementada.<br>|
-|  	|  	|
+|:---:	|:---:	|
 
 ## Avaliação
 
