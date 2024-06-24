@@ -70,7 +70,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Objetivo do Teste 	| Verificar se aplicação permite favoritar o posto desejado pelo usuário <br> |
 | Passos 	|-Acessar o aplicativo<br> -Visualizar a página principal<br> -Acessar página de pesquisa<br> -Clicar do lado direito da tela na "estrela" para favoritar o posto.<br> |
 |Critério de Êxito | Visualizar postos favoritados pelo usuário.<br>| 
-|Resultado Esperado | |
+|Resultado Esperado |Visualização de postos favoritos<br> |
 |Resultado Obtido | Funcionalidade ainda não implementada.<br> |
 
 
