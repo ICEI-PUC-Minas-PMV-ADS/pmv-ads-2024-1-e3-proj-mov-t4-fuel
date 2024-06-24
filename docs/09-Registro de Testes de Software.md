@@ -4,7 +4,7 @@
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
 | **Caso de Teste** 	| **CT-01 – Cadastro/login de Usuário** 	|
-| 	|  |
+|:---:	|:---:	|
 |	Requisito Associado 	| RF-01 - A aplicação permitirá o login por meio do número de telefone e senha cadastrados previamente. |
 | Objetivos do Teste 	| - Verificar se o sistema disponibiliza o cadastro<br> -Validação dos dados<br> - Login de usuário já cadastrado.|
 | Passos cadastro de novo usuário 	| - Acessar o aplicativo <br> - Informar número de celular e senha <br> - Visualizar a página principal<br> - Acessar página de Login<br> -Cadastrar usuário |
