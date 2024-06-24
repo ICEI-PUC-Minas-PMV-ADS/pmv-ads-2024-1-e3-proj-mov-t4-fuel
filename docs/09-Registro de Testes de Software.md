@@ -11,10 +11,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Passos para login 	| -Acessar o aplicativo <br> -Informar número de celular e senha <br> -Visualizar a página principal<br> -Acessar página de Login<br> 
 |Critério de Êxito |Sucesso no cadastro a partir do número de celular e senha válidos<br>|  
 |Resultado Esperado | - Espera-se que a aplicação confirme o cadastro de novos usuários assim que os dados requisitados forem validados<br> - A partir do cadastro confirmado a aplicação deve direcionar o usuário para realizar o login com número de telefone e senha válidos conforme a regra de negócio<br>|
-|Resultado Obtido | - Não foram implementadas todas as funcionalidades.<br> -Na tela "Meu Perfil" o campo Nome não foi implementado um número máximo de caracteres, o campo "Telefone" não foi delimitado o número máximo de caracteres tampouco foi restrito para apenas caracteres númericos e, por fim, o campo "Email" não está delimitado para o formato padrão.<br> - Botões ainda não foram implementados.|
-
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/assets/136076013/08bf63f5-2b1c-4cd7-9a95-29686316f2eb
-
+|Resultado Obtido | -A aplicação confirmA o cadastro de novos usuários assim que os dados requisitados foram validados
+- A partir do cadastro confirmado a aplicação direciona o usuário para realizar o login com número de telefone e senha válidos.|
 
 
 | **Caso de Teste** 	| **CT-02 – Pesquisa por localização/Preço**	|
@@ -24,7 +22,9 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/ass
 | Passos 	| -Acessar o aplicativo<br> -Visualizar a página principal<br> -Acessar página de pesquisa |
 |Critério de Êxito | Sucesso na pesquisa por localização<br>| 
 |Resultado Esperado | |
-|Resultado Obtido | Funcionalidade ainda não implementada. |
+|Resultado Obtido | -A aplicação exibe uma lista de estabelecimentos
+-Permite que os usuário realize pesquisa de preço, tipo de combustível e bandeira do posto
+|
 |  	|  	|
 | **Caso de Teste** 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
 |Requisito Associado | RF-03  A aplicação deve oferecer a lista de estabelecimentos cadastrados com nome, bandeira, preço, endereço e a distância entre o usuário e o serviço disponível.|
@@ -32,7 +32,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/ass
 | Passos 	| - Acessar o aplicativo <br> -Visualizar a página principal<br> -Clicar no símbolo do "posto"|
 |Critério de Êxito | Listagem dos postos com as devidas informações disponíveis|
 |Resultado Esperado | - Espera-se qua a aplicação disponibilize uma lista de estabelecimentos previamente cadastrados com nome, bandeira, preço, endereço e distância que possibilite ao usuário escolher o establecimento de sua preferência |
-|Resultado Obtido | - Implementação não concluída. <br> |
+|Resultado Obtido | Listagem dos postos com as devidas informações disponíveis <br> |
 |  	|  	|
 | **Caso de Teste**  	| **CT-04 Cadastro de Estabelecimentos**	|
 |Requisito Associado | RF-04 A aplicação deve permitir ao administrador o cadastro do estabelecimento informando: preço e tipo de combustível, bandeira do posto, endereço, horário de funcionamento e outros serviços adicionais <br> 
@@ -40,7 +40,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/ass
 | Passos 	| - Acessar o aplicativo <br> -Visualizar a página principal<br> -Clicar no símbolo em "Adicionar estabelecimento"|
 |Critério de Êxito | Cadastro realizado com êxito|  
 |Resultado Esperado | |
-|Resultado Obtido | Funcionalidade ainda não implementada. |
+|Resultado Obtido | Cadastro realizado com sucesso. |
 |  	|  	|
 |**Caso de Teste**  	| **CT-05 – Atualização/exclusão de Informações** |
 |Requisito Associado | RF-05 A aplicação deve permitir ao administrador atualizar as informações previamente cadastradas.<br> RF-06 A aplicação deve permitir ao administrador excluir informações devidamente comprovadas como incorretas. |
@@ -56,7 +56,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t4-fuel/ass
 | Passos 	|  -Acessar o aplicativo<br> -Visualizar a página principal<br> -Acessar página de pesquisa<br> -Selecionar o posto desejado<br> -Clicar em: "xx Km- Ir agora"
 |Critério de Êxito | 	Integrar a aplicação móvel com o GPS selecinado pelo usuário. |
 |Resultado Esperado | Ao selecionar um estabelecimento o usuário deve ser direcionado pela aplicação para um aplicativo de navegação o qual traçará a rota para o usuário.  |
-|Resultado Obtido | - Implemetação não concluída.<br> - Mapa não funcional, não possui interação com os estabelecimentos cadastrados. |
+|Resultado Obtido | - Integração da aplicação móvel com o GPS selecinado pelo usuário, realizada com sucesso. |
 |  	|  	|
 | **Caso de Teste**  	| **CT-07 – Favoritar Posto**	|
 |Requisito Associado | RF- 12	- A aplicação deverá permitir ao usuário favoritar posto. |
