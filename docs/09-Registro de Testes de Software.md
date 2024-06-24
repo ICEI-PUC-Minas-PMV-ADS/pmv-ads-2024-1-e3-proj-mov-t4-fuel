@@ -41,7 +41,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Objetivo do Teste 	| Verificar se o administrador está conseguindo cadastrar os estabelecimentos<br> 
 | Passos 	| - Acessar o aplicativo <br> -Visualizar a página principal<br> -Clicar no símbolo em "Adicionar estabelecimento"|
 |Critério de Êxito | Cadastro realizado com êxito<br>|  
-|Resultado Esperado | |
+|Resultado Esperado | Cadastro |
 |Resultado Obtido | Cadastro realizado com sucesso.<br> |
 
 
@@ -51,7 +51,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Objetivo do Teste 	| A aplicação deve permitir ao administrador atualizar as informações e excluir informações incorretas  |
 | Passos 	| -  Acessar o aplicativo <br> Acessar página de Login<br> - Informar número de telefone e senha <br> - Acessar a área do administrador<br> -Clicar no símbolo em "Alterar informações do estabelecimento"|
 |Critério de Êxito |  Sucesso nas alterações cadastrais.<br> |
-|Resultado Esperado | |
+|Resultado Esperado | Alterações cadastrais |
 |Resultado Obtido | Funcionalidade ainda não implementada. <br>|
 
 
