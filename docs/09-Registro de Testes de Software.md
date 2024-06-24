@@ -17,12 +17,11 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | **Caso de Teste** 	| **CT-02 – Pesquisa por localização/Preço**	|
 |:---:	|:---:	|
 |Requisito Associado | RF-02	-A aplicação deve permitir ao usuário logado realizar pesquisa da localização dos estabelecimentos conforme sua necessidade utilizando para tal o CEP ou digitando manualmente o logradouro.<br> RF-08 A aplicação deve permitir que os usuários realizem pesquisas de preço, tipo de combustível e bandeira do posto.
-| ObjetivoS do Teste 	| -A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual.<br> - A aplicação deve permitir pesquisas de preço |
+| Objetivos do Teste 	| -A aplicação exibe uma lista de estabelecimentos próximos com base no CEP fornecido ou de sua localização atual.<br> - A aplicação deve permitir pesquisas de preço |
 | Passos 	| -Acessar o aplicativo<br> -Visualizar a página principal<br> -Acessar página de pesquisa |
 |Critério de Êxito | Sucesso na pesquisa por localização<br>| 
-|Resultado Esperado | |
-|Resultado Obtido | -A aplicação exibe uma lista de estabelecimentos
--Permite que os usuário realize pesquisa de preço, tipo de combustível e bandeira do posto<br>|
+|Resultado Esperado |Cadastro realizado com êxito<br> |
+|Resultado Obtido | -A aplicação exibe uma lista de estabelecimentos -Permite que os usuário realize pesquisa de preço, tipo de combustível e bandeira do posto<br>|
 
 |:---:	|:---:	|
 | **Caso de Teste** 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
