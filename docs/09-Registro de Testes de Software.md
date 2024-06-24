@@ -80,12 +80,11 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Objetivo do Teste 	| Verificar se o SAC,funcionam adequadamente. |
 | Passos 	| - Acessar o aplicativo <br> - Visualizar a página principal<br> -Acessar página de Login<br> -Clicar em "ajuda"/ "suporte"???. |
 |Critério de Êxito | Ao clicar no SAC o usuário é direcionando para o atendimento.|
-|Resultado Esperado | |
+|Resultado Esperado | Direcionamento do usuário ao atendimento<br>|
 |Resultado Obtido | Funcionalidade ainda não implementada.<br>|
 
 
-## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+
 
 
