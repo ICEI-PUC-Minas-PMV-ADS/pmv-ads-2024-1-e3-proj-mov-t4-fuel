@@ -83,6 +83,11 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |Resultado Esperado | Direcionamento do usuário ao atendimento<br>|
 |Resultado Obtido | Funcionalidade ainda não implementada.<br>|
 
+## Aplicação mobile FUEL+
+
+
+[Assista ao vídeo](./img/VIDEO-2024-06-23-17-47-23.mp4)
+
 
 
 
