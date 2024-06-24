@@ -11,8 +11,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Passos para login 	| -Acessar o aplicativo <br> -Informar número de celular e senha <br> -Visualizar a página principal<br> -Acessar página de Login<br> 
 |Critério de Êxito |Sucesso no cadastro a partir do número de celular e senha válidos<br>|  
 |Resultado Esperado | - Espera-se que a aplicação confirme o cadastro de novos usuários assim que os dados requisitados forem validados<br> - A partir do cadastro confirmado a aplicação deve direcionar o usuário para realizar o login com número de telefone e senha válidos conforme a regra de negócio<br>|
-|Resultado Obtido | -A aplicação confirma o cadastro de novos usuários assim que os dados requisitados foram validados
-- A partir do cadastro confirmado a aplicação direciona o usuário para realizar o login com número de telefone e senha válidos.<br>|
+|Resultado Obtido | -A aplicação confirma o cadastro de novos usuários assim que os dados requisitados foram validados.|
 
 
 | **Caso de Teste** 	| **CT-02 – Pesquisa por localização/Preço**	|
