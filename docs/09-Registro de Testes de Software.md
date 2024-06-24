@@ -21,7 +21,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Passos 	| -Acessar o aplicativo<br> -Visualizar a página principal<br> -Acessar página de pesquisa |
 |Critério de Êxito | Sucesso na pesquisa por localização<br>| 
 |Resultado Esperado |Cadastro realizado com êxito<br> |
-|Resultado Obtido | -A aplicação exibe uma lista de estabelecimentos -Permite que os usuário realize pesquisa de preço, tipo de combustível e bandeira do posto<br>|
+|Resultado Obtido | -A aplicação exibe uma lista de estabelecimentos<br> -Permite que os usuário realize pesquisa de preço, tipo de combustível e bandeira do posto<br>|
 
 |:---:	|:---:	|
 | **Caso de Teste** 	| **CT-03 – Lista de Estabelecimentos Cadastrados**	|
